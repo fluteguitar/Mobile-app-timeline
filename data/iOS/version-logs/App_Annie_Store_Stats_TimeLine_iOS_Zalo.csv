@@ -1,0 +1,226 @@
+Platform,Date,App ID,App Name,Publisher ID,Publisher Name,Update Type,Previous Value,New Value,Notes
+iOS,2012-12-15,579523206,Zalo,822220029,Zalo Group,Version,1.6,1.7,"- Cải tiến tốc độ và chất lượng xử lý hiệu ứng hình ảnh
+- Thêm nhiều Sticker dễ thương
+- Hỗ trợ kết nối bằng Facebook
+- Cải tiến giao diện
+- Sửa lỗi"
+iOS,2013-01-04,579523206,Zalo,822220029,Zalo Group,Version,1.7,1.8,"- Cho phép thiết lập hình nền tin nhắn
+- Cải thiện tốc độ nhận tin nhắn
+- Cải tiến giao diện
+- Sửa lỗi"
+iOS,2013-01-12,579523206,Zalo,822220029,Zalo Group,Version,1.8,1.9,"Cải tiến tốc độ nhận tin nhắn
+Hỗ trợ màn hình iPhone 5/iPod 5
+Sửa lỗi hiển thị kí tự đặc biệt"
+iOS,2013-02-02,579523206,Zalo,822220029,Zalo Group,Version,1.9,2,"Cải tiến và thay giao diện sử dụng thuận tiện hơn trước.
+Thêm tính năng VIP cho phép bạn quan tâm và nhận tin nhắn trực tiếp từ các sao nổi tiếng như Hồ Ngọc Hà, Đàm Vĩnh Hưng, Đan Trường,...
+Gửi hình/âm thanh biểu cảm
+Sửa lỗi"
+iOS,2013-02-02,579523206,Zalo,822220029,Zalo Group,Icon,https://static-s.aa-cdn.net/img/ios/579523206/55695d9c43b92f73b2fffbc57970b2de,https://static-s.aa-cdn.net/img/ios/579523206/d46d54615aeb3a9d81656ecd1d07a929,
+iOS,2013-02-14,579523206,Zalo,822220029,Zalo Group,Version,2,2.1,"Cải tiến giao diện.
+Sửa lỗi"
+iOS,2013-02-28,579523206,Zalo,822220029,Zalo Group,Version,2.1,2.2,"Cho phép chọn mã quốc gia khi đăng kí
+Cải tiến giao diện tin nhắn (chọn gửi nhiều emoticon, xem trước Stickers, thêm animation...)
+Sửa lỗi tắt nhạc iPod sau khi ghi âm và một số lỗi khác"
+iOS,2013-03-07,579523206,Zalo,822220029,Zalo Group,Version,2.2,2.3,"Chú ý: Trên iOS 6, nếu bạn không vào được ứng dụng xin vui lòng bật quyền truy xuất danh bạ như sau:
+Setting>Privacy>Contacts>Zalo (Bật ON)
+Cài đặt>Bảo mật>Danh bạ>Zalo (Bật ON)
+Chúng tôi đang khắc phục vấn đề này và sẽ cập nhật  trong thời gian sớm nhất. Xin chân thành cảm ơn!
+
+
+Sửa lỗi thoát ứng dụng khi mời thêm bạn trong nhóm
+Sửa lỗi liên quan tới tốc độ của phiên bản 2.2"
+iOS,2013-03-18,579523206,Zalo,822220029,Zalo Group,Version,2.3,2.4,"Cập nhật mới trên phiên bản 2.4
+-----------------------------------------------------
+Cho phép upload nhiều ảnh
+Thêm hiệu ứng ảnh làm mịn da
+Cập nhật quyền riêng tư
+Cải tiến giao diện
+Sửa lỗi thoát app trên iOS 6 do quyền truy xuất danh bạ (1).
+
+P/S:Một số trường hợp cài mới vẫn bị lỗi (1) xin vui vào Setting>Privacy>Contact>Zalo (bật ON). Sau đó vào Apple Store để nhận được thông báo Update (cập nhật) phiên bản 2.4. Xin chân thành cảm ơn!
+"
+iOS,2013-04-03,579523206,Zalo,822220029,Zalo Group,Version,2.4,2.5,"Cập nhật mới trên phiên bản 2.5
+-----------------------------------------------------
+Cho phép upload ảnh chất lượng cao
+Cho phép chia sẻ cảm nghĩ lên Facebook và Zing Me
+Cho phép chia sẻ thông tin bạn bè tới người khác
+Sửa chữa một số lỗi trong hệ thống"
+iOS,2013-04-03,579523206,Zalo,822220029,Zalo Group,Name,Zalo - Nhắn tin kiểu mới,Zalo - Nhắn gửi yêu thương,
+iOS,2013-04-26,579523206,Zalo,822220029,Zalo Group,Version,2.5,2.6,"Cập nhật mới trên phiên bản 2.6
+-----------------------------------------------------
+Cải tiến hiệu ứng xử lí ảnh
+Thay đổi giao diện trang cá nhân
+Sửa chữa một số lỗi trong hệ thống"
+iOS,2013-05-07,579523206,Zalo,822220029,Zalo Group,Version,2.6,2.6.1,Sửa một số lỗi trong hệ thống
+iOS,2013-05-24,579523206,Zalo,822220029,Zalo Group,Version,2.6.1,2.7,"Cập nhật mới trên phiên bản 2.7
+-----------------------------------------------------
+Cho phép chia sẻ Link
+Cho phép tạo/tìm bạn theo mã QR
+Cải tiến một số giao diện người dùng
+Sửa chữa một số lỗi trong hệ thống"
+iOS,2013-06-15,579523206,Zalo,822220029,Zalo Group,Version,2.7,2.8,"Thử nghiệm tính năng gọi
+Cho phép thay đổi avatar của nhóm
+Cải tiến giao diện của kho biểu cảm
+Sửa chữa một số lỗi trong hệ thống"
+iOS,2013-07-03,579523206,Zalo,822220029,Zalo Group,Version,2.8,2.9,"- Giao diện chia sẻ Nhật ký mới giúp người dùng dễ dàng chia sẻ khoảnh khắc và cảm xúc với bạn bè
+- Hỗ trợ lấy mã kích hoạt qua cuộc gọi
+- Thuận tiện hơn khi tải và quản lý kho biểu cảm, người dùng cũng có thể đánh dấu những hình động yêu thích để gửi cho bạn bè một cách nhanh chóng
+- Bảo mật hơn với chức năng khóa ứng dụng (passcode lock)
+- Cải tiến giao diện cuộc gọi
+- Sửa một số lỗi trong hệ thống"
+iOS,2013-08-13,579523206,Zalo,822220029,Zalo Group,Version,2.9,3,"Thêm tính năng đăng nhập bằng mật khẩu
+Cải thiện tốc độ nhận thông báo khi có tin nhắn mới
+Dễ dàng chia sẻ hoạt động của page, giới thiệu page lên Nhật ký
+Thao tác chọn gửi sticker đơn giản và thuận tiện hơn
+Giao diện thân thiện và dễ sử dụng hơn
+Chia sẻ link cho bạn bè nhanh chóng
+Sửa một số lỗi trong hệ thống"
+iOS,2013-08-23,579523206,Zalo,822220029,Zalo Group,Version,3,3.0.1,Bug fixes
+iOS,2013-09-14,579523206,Zalo,822220029,Zalo Group,Version,3.0.1,3.1,"Cải tiến giao diện
+Sửa một số lỗi
+
+Chú ý: Nếu bạn gặp vấn đề liên quan tới gọi điện hoặc ghi âm trên iOS 7, vui lòng kiểm tra và bật quyền sử dụng microphone; 
+Setting (Cài đặt)>Privacy (Bảo mật)>Microphone(Micrô)>Turn On (Bật ON)"
+iOS,2013-09-20,579523206,Zalo,822220029,Zalo Group,Version,3.1,3.2,"Cải tiến giao diện tương thích với iOS 7
+Sửa một số lỗi trong hệ thống
+* Chú ý: Nếu bạn gặp vấn đề liên quan tới gọi điện hoặc ghi âm trên iOS 7, vui lòng kiểm tra và bật quyền sử dụng microphone;
+Setting (Cài đặt)>Privacy (Bảo mật)>Microphone(Micrô)>Turn On (Bật ON)
+
+Bug fixes
+Basic support for iOS7"
+iOS,2013-10-11,579523206,Zalo,822220029,Zalo Group,Version,3.2,3.3,"Tăng tốc độ upload ảnh
+Sửa chữa một số lỗi
+
+Bug fixes
+Feature improvements"
+iOS,2013-11-01,579523206,Zalo,822220029,Zalo Group,Version,3.3,3.4,"Cải tiến chất lượng cuộc gọi
+Nâng cấp giao diện tính năng gửi tin nhắn thoại
+Sửa một số lỗi trong hệ thống"
+iOS,2013-11-19,579523206,Zalo,822220029,Zalo Group,Version,3.4,3.5,"- Thêm trạng thái đã xem, đang soạn tin nhắn.
+- Thêm chế độ ghi âm dài (ghi âm rảnh tay).
+- Cho phép tag bạn bè khi đăng cảm nghĩ
+- Sửa một số lỗi trong hệ thống
+
+Feature improvements
+Bug fixes"
+iOS,2013-12-10,579523206,Zalo,822220029,Zalo Group,Version,3.5,3.6,"Hỗ trợ giao diện iOS7
+Cho phép trả lời bình luận
+Cải tiến một số giao diện
+Sửa một số lỗi
+
+New iOS7 user interfaces
+"
+iOS,2013-12-11,579523206,Zalo,822220029,Zalo Group,Version,3.6,3.7,"Hỗ trợ giao diện iOS7
+Cho phép trả lời bình luận
+Sửa một số lỗi
+
+New iOS7 user interfaces"
+iOS,2014-05-06,579523206,Zalo,822220029,Zalo Group,Version,3.7,4,"- Nâng cấp giao diện mới.
+- Hỗ trợ gửi ảnh chat chất lượng cao HQ.
+- Nâng cấp chất lượng tính năng gọi điện."
+iOS,2014-06-24,579523206,Zalo,822220029,Zalo Group,Version,4,4.1.1,"- Hỗ trợ nhắn tin gửi nhiều ảnh đồng thời.
+- Quét bạn ở gần: Kết bạn nhanh chóng mà không cần chia sẻ SĐT hoặc mã QR.
+- Thêm mục giải trí.
+- Nâng cấp Zalo Page"
+iOS,2014-08-30,579523206,Zalo,822220029,Zalo Group,Version,4.1.1,4.2,"Thêm tính năng quay và gửi video
+Cho phép chia sẻ tin nhắn địa điểm
+Cải tiến giao diện và sửa một số lỗi.
+Hỗ trợ trên iOS 8 beta.
+"
+iOS,2014-09-29,579523206,Zalo,822220029,Zalo Group,Version,4.2,4.2.1,"Sửa một số lỗi và cải tiến giao diện người dùng.
+Nếu bạn sử dụng iOS7 trở lên, bạn có thể đặt chế độ tự động cập nhật ứng dụng bằng cách vào mục Setting (Cài đặt)>iTunes & AppStore> Automatic Downloads (Cập nhật) và bật On mục này."
+iOS,2014-10-29,579523206,Zalo,822220029,Zalo Group,Version,4.2.1,4.3,"- Cho phép thu hồi khi gửi nhầm tin nhắn.
+- Phòng trò chuyện wifi.
+- Sửa lỗi cho iOS 8"
+iOS,2014-11-18,579523206,Zalo,822220029,Zalo Group,Publisher,VNG CORPORATION,Zalo Group,
+iOS,2015-01-01,579523206,Zalo,822220029,Zalo Group,Version,4.3,4.3.4,"- Thêm tính năng bảo mật nhằm chống trộm tài khoản.
+- Cải tiến giao diện tương thích với iPhone 6/ iPhone 6 Plus.
+- Thêm chức năng chia sẻ hình ảnh trong thư viện, chia sẻ liên kết trong trình duyệt.
+- Hỗ trợ tính năng xóa tài khoản.
+- Sửa một số lỗi."
+iOS,2015-01-07,579523206,Zalo,822220029,Zalo Group,Version,4.3.4,4.3.6,"- Tăng kích cỡ font chữ trong cửa sổ chat phù hợp với iPhone 6/iPhone Plus.
+- Cập nhật cài 'Thông báo' cho iOS 8 giúp bạn nhận được tin nhắn tốt hơn.
+* Nếu bạn nhận chỉ dẫn 'Thông báo' trên iOS 8, vui lòng làm theo hướng dẫn sau:
+- Vào mục 'Cài đặt' (Settings)
+- Tìm và chọn ứng dụng Zalo
+- Chọn mục 'Thông báo' (Notifications)
+- Bật tất cả các lựa chọn, chọn kiểu nhắc là Biểu ngữ (Banners)"
+iOS,2015-02-12,579523206,Zalo,822220029,Zalo Group,Version,4.3.6,4.6.5,"- Nâng cấp tốc độ trang tin nhắn.
+- Nâng cấp giao diện trang nhật ký."
+iOS,2015-04-30,579523206,Zalo,822220029,Zalo Group,Version,4.6.5,4.7.2,"Sửa một số lỗi
+Cải tiến tốc độ"
+iOS,2015-06-17,579523206,Zalo,822220029,Zalo Group,Version,4.7.2,4.8,"Nâng cấp tốc độ.
+Sửa một số lỗi."
+iOS,2015-07-14,579523206,Zalo,822220029,Zalo Group,Version,4.8,4.8.2,"Nâng cấp Game Center
+Sửa một số lỗi"
+iOS,2015-07-18,579523206,Zalo,822220029,Zalo Group,Version,4.8.2,4.8.3,Sửa một số lỗi trên iOS 9.
+iOS,2015-09-28,579523206,Zalo,822220029,Zalo Group,Version,4.8.3,5,"- Major interface overhaul
+- Improvements across the board
+- Support English language
+
+- Thiết kế giao diện phẳng hoàn toàn mới.
+- Nâng cấp trải nghiệm người dùng trên toàn ứng dụng.
+- Hỗ trợ ngôn ngữ Tiếng Anh"
+iOS,2015-10-23,579523206,Zalo,822220029,Zalo Group,Version,5,5.0.1,"Bug fixes
+
+Sửa một số lỗi
+
+Latest Update
+- Major interface overhaul
+- Improvements across the board
+- Support English language
+
+- Thiết kế giao diện phẳng hoàn toàn mới.
+- Nâng cấp trải nghiệm người dùng trên toàn ứng dụng.
+- Hỗ trợ ngôn ngữ Tiếng Anh"
+iOS,2015-12-12,579523206,Zalo,822220029,Zalo Group,Version,5.0.1,5.1,"- Suggest relevant stickers when typing your messages
+- See friends' latest updates in Contacts
+- Bug fixes and improvements"
+iOS,2015-12-12,579523206,Zalo,822220029,Zalo Group,Name,Zalo - Nhắn gửi yêu thương,Zalo,
+iOS,2015-12-23,579523206,Zalo,822220029,Zalo Group,Version,5.1,5.1.2,"- Giới thiệu bộ sticker đặc biệt cho mùa Noel 2015
+- Hiệu ứng tuyết rơi, pháo bông đính kèm sticker và từ khóa 
+
+Chúc bạn Giáng Sinh vui vẻ!
+
+- Special sticker set for Christmas 2015
+- Snowing & firework effect for seasonal stickers and keywords
+
+Merry Christmas!"
+iOS,2016-01-12,579523206,Zalo,822220029,Zalo Group,Version,5.1.2,5.1.3,Bug fixes
+iOS,2016-01-31,579523206,Zalo,822220029,Zalo Group,Version,5.1.3,5.2,"New stickers with sounds and animations
+More emoticons to use in conversations
+Receive GIFs and files from Zalo PC 
+Fancy UI decorations for Tet holiday"
+iOS,2016-02-06,579523206,Zalo,822220029,Zalo Group,Version,5.2,5.2.1,"New stickers with sounds and animations
+More emoticons to use in conversations
+Receive GIFs and files from Zalo PC 
+Fancy UI decorations for Tet holiday
+Bug fixes & Improvements"
+iOS,2016-04-22,579523206,Zalo,822220029,Zalo Group,Version,5.2.1,5.2.2,Minor bug fixes and performance improvements
+iOS,2016-06-06,579523206,Zalo,822220029,Zalo Group,Version,5.2.2,5.3,"Support IPv6 networks
+Bug fixes & Performance Improvements"
+iOS,2016-06-16,579523206,Zalo,822220029,Zalo Group,Version,5.3,5.4,Some bug fixes
+iOS,2016-06-28,579523206,Zalo,822220029,Zalo Group,Version,5.4,5.4.5,Bug fixes & improvements
+iOS,2016-07-09,579523206,Zalo,822220029,Zalo Group,Version,5.4.5,5.4.8,Bug fixes & improvements
+iOS,2016-08-02,579523206,Zalo,822220029,Zalo Group,Version,5.4.8,5.5,"- Group features: create new group, reply to message, mention group members using @, seen status, etc
+- Improve search features"
+iOS,2016-08-30,579523206,Zalo,822220029,Zalo Group,Version,5.5,5.6,"Add suggestions for GIF, MP3 searching using @. 
+Have a great time with Zalo updated features."
+iOS,2016-09-21,579523206,Zalo,822220029,Zalo Group,Version,5.6,5.6.1,"- More @GIF, @MP3 improvements
+- Improve performance and stability"
+iOS,2016-09-28,579523206,Zalo,822220029,Zalo Group,Version,5.6.1,5.7,"- Search for messages in conversations
+- Find friends via phone number right from Global search 
+- Add Shared Media in group conversations where your photos, files and documents are kept
+- Group management tools for group admins and ability to change group avatar 
+
+Thanks for joining Zalo on our incredible journey!"
+iOS,2016-10-18,579523206,Zalo,822220029,Zalo Group,Version,5.7,5.8,"- Major improvements to timeline bring faster speed and better experience 
+- Search for messages and phone numbers right from Global Search"
+iOS,2016-10-31,579523206,Zalo,822220029,Zalo Group,Version,5.8,5.8.5,"Secret message: Now available for iOS and Android users using latest Zalo versions. 
+Get started by swiping up the conversation screen from the bottom."
+iOS,2016-11-30,579523206,Zalo,822220029,Zalo Group,Version,5.8.5,5.9,"- Add video call feature
+- Camera flow improvement"
+iOS,2016-12-23,1,Zalo,1,1,Version,Rand,5.10, Add story feature where you can share your 24hour moments Camera improvements with faster photo capture and easier editing Prepare for Noel and New YearMerry Christmas and Happy New Year!
+iOS,2017-01-03,1,Zalo,1,1,Version,Rand,5.11, Minor bug fixesHappy new year 2017!
+iOS,2017-01-24,1,Zalo,1,1,Version,Rand,5.12, Improve camera features with lots of fancy effects to decorate your photos to share with friends and post on timeline Update new theme chatWish you all the best on Year of the Rooster 2017!
+iOS,2017-01-26,1,Zalo,1,1,Version,Rand,5.13, Improve camera features with lots of fancy effects to decorate your photos to share with friends and post on timeline Update new theme chat Fix bugsWish you all the best on Year of the Rooster 2017!

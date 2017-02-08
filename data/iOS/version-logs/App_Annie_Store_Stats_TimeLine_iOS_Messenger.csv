@@ -1,0 +1,430 @@
+Platform,Date,App ID,App Name,Publisher ID,Publisher Name,Update Type,Previous Value,New Value,Notes
+iOS,2011-08-15,454638411,Messenger,284882218,"Facebook, Inc.",Version,1,1.0.1,"• More accurate location mapping
+• Faster image loading
+• Faster launch time
+• Bug fixes
+"
+iOS,2011-08-24,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.0.1,1.0.2,"• Improved ability to copy and paste text
+• Added links to phone numbers and addresses
+• Fixed issue that sometimes caused the app to crash"
+iOS,2011-10-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.0.2,1.5,"• Ability to see who's online and who's mobile
+• Ability to see when the other person is typing
+• A faster way to compose new messages to the people you message most
+• Various performance improvements
+• Support for 12 additional languages
+• Support for iOS 5
+"
+iOS,2011-10-26,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.5,1.5.1,- Bug fixes
+iOS,2011-12-05,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.5.1,1.5.2,"• Faster message scrolling
+• Faster startup
+• Fix ""blue screen"" startup crash
+• Retina display photos for friend chooser
+• Bug fixes
+"
+iOS,2011-12-20,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.5.2,1.5.3,"• Fix startup crash introduced in 1.5.2 upgrade.
+• Bug fixes.
+"
+iOS,2012-03-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.5.3,1.6,"• Faster way to start conversations
+• Easier way to start group conversations
+• 10 new languages: čeština, dansk, Nederlands, Ελληνικά, Bahasa Indonesia, Bahasa Melayu, ‪norsk (bokmål), polski, português (Portugal), ไทย
+• Bug fixes"
+iOS,2012-05-04,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.6,1.7,"Now it’s even easier to reach groups of friends on the go:
+• Text friends for free, using your existing data plan
+• Reach friends wherever they are now – on their phone or the web
+• Know who’s seen your message, and who hasn’t 
+• See where friends are messaging you from
+
+Also includes:
+• Typing indicator – see when your friend is replying
+• Bug fixes
+"
+iOS,2012-06-25,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.7,1.8,"Now with more great ways to stay in touch on the go:
+
+- Quickly switch between multiple conversations with in-app notifications
+- Include friends of friends in conversations
+- Swipe to delete individual messages from conversations
+- See who's available when you start a new conversation
+- Share bigger photos, tap for full screen and pinch to zoom
+
+More improvements:
+- Faster app loading, navigating and sending
+- More-reliable push notifications
+- Bug fixes"
+iOS,2012-06-25,454638411,Messenger,284882218,"Facebook, Inc.",Icon,https://static-s.aa-cdn.net/img/ios/454638411/5c6a89e4a29df5b45b3e808c11c55fd7,https://static-s.aa-cdn.net/img/ios/454638411/805255d45b63f3d3f2a738103fbba522,
+iOS,2012-07-06,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.8,1.8.1,"Changes in 1.8.1:
+- Fix bug causing friends and profile photos to load slowly
+- See more top friends in the compose view
+
+Changes from 1.8:
+
+Now with more great ways to stay in touch on the go:
+
+- Quickly switch between multiple conversations with in-app notifications
+- Include friends of friends in conversations
+- Swipe to delete individual messages from conversations
+- See who's available when you start a new conversation
+- Share bigger photos, tap for full screen and pinch to zoom
+
+More improvements:
+- Faster app loading, navigating and sending
+- More-reliable push notifications
+- Bug fixes"
+iOS,2012-08-24,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.8.1,1.9,"New features include:
+· Add smileys, hearts and other emoji to messages
+· Tap the person's name at the top of your conversation to view their Facebook Timeline
+· Seeing who's active lets you and your friends know how soon to expect a reply
+· Improved ""new message"" sound
+· Other bug fixes"
+iOS,2012-08-31,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.9,1.9.1,"New in 1.9.1:
+· Fixed a startup crash on iOS 4.0 and 4.1
+
+New in 1.9:
+· Add smileys, hearts and other emoji to messages
+· Tap the person's name at the top of your conversation to view their Facebook Timeline
+· Seeing who's active lets you and your friends know how soon to expect a reply
+· Improved ""new message"" sound
+· Other bug fixes"
+iOS,2012-09-29,454638411,Messenger,284882218,"Facebook, Inc.",Version,1.9.1,2,"- Swipe left anywhere in the app to quickly see who's available and send a message
+- Add friends you message most to the top of your Favorites
+- New design for conversations
+- Improved speed and reliability
+- Support for iOS 6 and iPhone 5
+- Bug fixes
+"
+iOS,2012-10-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,2,2.0.1,"2.0.1
+- Bug fixes
+
+2.0
+- Swipe left anywhere in the app to quickly see who's available and send a message
+- Add friends you message most to the top of your Favorites
+- New design for conversations
+- Improved speed and reliability
+- Support for iOS 6 and iPhone 5
+- Bug fixes"
+iOS,2012-11-12,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.0.1,2.02,"What's New in Version 2.0.2
+- Visit your settings to give feedback about the app
+- Other improvements and bug fixes
+
+2.0
+- Swipe left anywhere in the app to quickly see who's available and send a message
+- Add friends you message most to the top of your Favorites
+- New design for conversations
+- Improved speed and reliability
+- Support for iOS 6 and iPhone 5
+- Bug fixes"
+iOS,2013-01-03,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.02,2.1,"What's New in Version 2.1
+- Send a quick voice message when you have more to say
+- Call friends for free right from Messenger*
+- Other improvements and bug fixes
+
+*Free calling uses your existing data plan, and will be rolling out over the next few weeks."
+iOS,2013-01-16,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.1,2.1.1,"What's New in Version 2.1
+- Send a quick voice message when you have more to say
+- Call friends for free right from Messenger*
+- Other improvements and bug fixes
+
+What’s New in Version 2.1.1
+- Back by popular request: Now you can swipe right to archive a conversation again
+- Other improvements and bug fixes
+
+*Free calling uses your existing data plan, and will be rolling out over the next few weeks.
+"
+iOS,2013-03-07,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.1.1,2.3,"What's New in Version 2.3
+
+Updates to group conversations
+- Name a group right from the top of your conversation
+- Get to your group conversations in one tap – just swipe left to see them in your sidebar
+- Search for group conversations by name or look them up by friends in the group
+- Other improvements and bug fixes
+"
+iOS,2013-03-08,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.3,2.3.1,"What's New in Version 2.3.1
+
+Updates to group conversations
+- Name a group right from the top of your conversation
+- Get to your group conversations in one tap – just swipe left to see them in your sidebar
+- Search for group conversations by name or look them up by friends in the group
+- Other improvements and bug fixes"
+iOS,2013-05-07,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.3.1,2.4,"Bring your messages to life with stickers:
+- Just tap the smiley to add a playful kitten or another cute critter
+- Send any sticker with one tap
+- For more sticker options, tap the basket
+
+Other new features include:
+- Delete conversations from your inbox just by swiping (back by popular request)
+- Bug fixes
+
+Stickers will be available to everyone over the next few weeks."
+iOS,2013-06-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.4,2.5,"2.5
+- Bug fixes
+
+2.4
+Bring your messages to life with stickers:
+- Just tap the smiley to add a playful kitten or another cute critter
+- Send any sticker with one tap
+- For more sticker options, tap the basket
+
+Other new features include:
+- Delete conversations from your inbox just by swiping (back by popular request)
+- Bug fixes
+"
+iOS,2013-08-07,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.5,2.6,"Now it's easier to send photos and emoji:
+- Just tap the paper clip from any message
+- Choose photos from Instagram and any other album on your phone
+
+Don't forget about stickers: Tap the smiley to see what's new in the sticker store.
+
+Bug fixes"
+iOS,2013-09-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.6,2.7,"- It's now faster to open the app and switch between messages
+- Available in more languages: Croatian, Hungarian and Slovakian
+- Plus, improved scrolling and overall performance
+- Bug fixes"
+iOS,2013-09-27,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.7,2.7.1,- Bug fixes
+iOS,2013-10-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.7.1,2.7.2,- Bug fixes
+iOS,2013-11-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,2.7.2,3,"A completely new design, updated for iOS 7.  Original in-app sounds.
+
+Not just for Facebook friends: Now you can message people in your phone book. And it's easy to add new contacts—just enter a phone number."
+iOS,2013-11-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,3,3.0.1,"A completely new design, updated for iOS 7.  Original in-app sounds.
+
+Not just for Facebook friends: Now you can message people in your phone book. And it's easy to add new contacts—just enter a phone number."
+iOS,2013-12-11,454638411,Messenger,284882218,"Facebook, Inc.",Version,3.0.1,3.1,"- Tap on someone's profile picture in any conversation to view their Timeline or call for free.
+- Bug fixes, including improved Japanese translations."
+iOS,2013-12-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,3.1,3.1.1,"- Tap on someone's profile picture in any conversation to view their Timeline or call for free.
+- Bug fixes"
+iOS,2014-01-25,454638411,Messenger,284882218,"Facebook, Inc.",Version,3.1.1,3.1.2,Bug Fixes
+iOS,2014-02-20,454638411,Messenger,284882218,"Facebook, Inc.",Version,3.1.2,3.2,Bug fixes
+iOS,2014-03-03,454638411,Messenger,284882218,"Facebook, Inc.",Version,3.2,3.2.1,• Bug fixes
+iOS,2014-03-27,454638411,Messenger,284882218,"Facebook, Inc.",Version,3.2.1,4,"Groups: Now you can create groups for the people you message most. Name them, set group photos and keep them all in one place
+
+Forwarding: Want to send a message or photo to someone who isn't in the conversation? Just tap to forward it
+
+Plus, continued improvements to make the app faster and more reliable"
+iOS,2014-04-03,454638411,Messenger,284882218,"Facebook, Inc.",Version,4,4.1,"Groups: Now you can create groups for the people you message most. Name them, set group photos and keep them all in one place
+
+Forwarding: Want to send a message or photo to someone who isn't in the conversation? Just tap to forward it
+
+Plus, continued improvements to make the app faster and more reliable
+
+####
+Free Calls: Talk as long as you want and stay in touch wherever you are. (Calls are free over Wi-Fi. Otherwise, standard data charges apply)."
+iOS,2014-04-18,454638411,Messenger,284882218,"Facebook, Inc.",Version,4.1,4.2,"Groups: Now you can create groups for the people you message most. Name them, set group photos and keep them all in one place
+
+Forwarding: Want to send a message or photo to someone who isn't in the conversation? Just tap to forward it
+
+Plus, continued improvements to make the app faster and more reliable
+
+####
+Free Calls: Talk as long as you want and stay in touch wherever you are. (Calls are free over Wi-Fi. Otherwise, standard data charges apply.)"
+iOS,2014-04-28,454638411,Messenger,284882218,"Facebook, Inc.",Version,4.2,5,"More ways to message: Everything's front and center, so it's easier to send photos, voice messages and more.
+
+Video: Send videos from your phone's camera roll and when people send you videos, play them right in the app.
+
+Instant photo sharing: Take a photo and send it in just one tap, without leaving the conversation. 
+
+Shortcuts to stickers: When someone sends you a sticker, press and hold down on it to get the pack. 
+
+Improved search: Enter the names of people and groups to find them quickly.
+
+Other fixes, including to stickers and groups."
+iOS,2014-05-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,5,5.1,"More ways to message: Everything's front and center, so it's easier to send photos, voice messages and more. 
+
+Video: Send videos from your phone's camera roll and when people send you videos, play them right in the app. 
+
+Instant photo sharing: Take a photo and send it in just one tap, without leaving the conversation. 
+
+Shortcuts to stickers: When someone sends you a sticker, press and hold down on it to get the pack. 
+
+Improved search: Enter the names of people and groups to find them quickly. 
+
+Other fixes, including to stickers and groups."
+iOS,2014-06-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,5.1,6,"Instant Video Sending: Shoot and play 15-second video messages from the camera right in the app
+
+Big Likes: Press and hold to send an even bigger thumbs up when you really, really like something."
+iOS,2014-06-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,6,6.1,"Calls are now more reliable.
+
+Fixed issues so that the list of people active on Facebook shows up faster."
+iOS,2014-07-03,454638411,Messenger,284882218,"Facebook, Inc.",Version,6.1,7,"Now available for iPad!
+
+Videos you shoot in Messenger can be saved to your phone's camera roll.
+
+Plus, other fixes to make the app more reliable."
+iOS,2014-07-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,7,8,"Text size now automatically adjusts to the size indicated in your device settings.
+Plus, other improvements to make the app faster and more reliable"
+iOS,2014-08-01,454638411,Messenger,284882218,"Facebook, Inc.",Version,8,9.1,• Fix for an issue where older conversations were not appearing for some people
+iOS,2014-08-20,454638411,Messenger,284882218,"Facebook, Inc.",Version,9.1,10,"Better Photo Sharing: Choose even more photos to send all at once.
+Improvements for viewing photos and videos.
+Fixed issues with videos."
+iOS,2014-09-02,454638411,Messenger,284882218,"Facebook, Inc.",Version,10,11,Continued improvements to the overall experience.
+iOS,2014-09-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,11,12,Updated the app for iOS 8
+iOS,2014-09-30,454638411,Messenger,284882218,"Facebook, Inc.",Version,12,13,Now updated for iPhone 6
+iOS,2014-10-16,454638411,Messenger,284882218,"Facebook, Inc.",Version,13,14,"Now you can add colorful drawings and text to photos from your camera roll before you send them. We update the app every two weeks, so stay tuned for more fun features on the way!"
+iOS,2014-10-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,14,14.1,"Bug Fixes
+Now you can add colorful drawings and text to photos from your camera roll before you send them. We update the app every two weeks, so stay tuned for more fun features on the way!"
+iOS,2014-10-30,454638411,Messenger,284882218,"Facebook, Inc.",Version,14.1,15,Preview stickers: Press and hold down on a sticker to expand it and view any animations
+iOS,2014-11-07,454638411,Messenger,284882218,"Facebook, Inc.",Name,Facebook Messenger,Messenger,
+iOS,2014-11-08,454638411,Messenger,284882218,"Facebook, Inc.",Name,Messenger,Facebook Messenger,
+iOS,2014-11-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,15,15.1,Fixed issues with sending messages.
+iOS,2014-11-20,454638411,Messenger,284882218,"Facebook, Inc.",Version,15.1,16,"Now you can adjust the focus and lighting of photos you take in the app.
+Fixed issues with sending messages."
+iOS,2014-11-26,454638411,Messenger,284882218,"Facebook, Inc.",Version,16,16.1,"Fixed issues to make the app more reliable.
+
+Now you can adjust the focus and lighting of photos you take in the app.
+Fixed issues with sending messages."
+iOS,2014-12-04,454638411,Messenger,284882218,"Facebook, Inc.",Version,16.1,16.2,Bug fixes.
+iOS,2014-12-12,454638411,Messenger,284882218,"Facebook, Inc.",Version,16.2,17,"We've worked on big improvements to make sending messages even more reliable. Also, the app is now more compatible with iPhone 6 Plus."
+iOS,2015-01-06,454638411,Messenger,284882218,"Facebook, Inc.",Version,17,18,Fixed issues to make the app more reliable.
+iOS,2015-01-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,18,19,Save photos and videos in the app to your Camera Roll.
+iOS,2015-01-21,454638411,Messenger,284882218,"Facebook, Inc.",Version,19,19.1,Fixed issues with showing who's active on Facebook.
+iOS,2015-02-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,19.1,21,"A new design of your conversation info makes it easier to see who’s in group conversations, view your shared photos and more."
+iOS,2015-02-14,454638411,Messenger,284882218,"Facebook, Inc.",Version,21,21.1,Bug fixes.
+iOS,2015-02-25,454638411,Messenger,284882218,"Facebook, Inc.",Version,21.1,22,"While using other apps on iOS 8, you can now tap the share button to easily share photos, videos and links directly with Messenger."
+iOS,2015-03-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,22,23,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon."
+iOS,2015-03-23,454638411,Messenger,284882218,"Facebook, Inc.",Version,23,23.1,Fixed issues to make the app more reliable.
+iOS,2015-03-31,454638411,Messenger,284882218,"Facebook, Inc.",Version,23.1,24,"Now you can use other apps with Messenger to express yourself in fun, new ways!
+- Send and receive GIFs, videos, photos and more 
+- Watch GIFs play automatically 
+- Instantly reply with the same app 
+- Easily install the apps your friends are using to send stuff to you
+- Discover new apps to install right from Messenger"
+iOS,2015-04-11,454638411,Messenger,284882218,"Facebook, Inc.",Version,24,25,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon."
+iOS,2015-04-25,454638411,Messenger,284882218,"Facebook, Inc.",Version,25,26,Fixed issues to make the app faster.
+iOS,2015-05-08,454638411,Messenger,284882218,"Facebook, Inc.",Version,26,27,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon"
+iOS,2015-05-21,454638411,Messenger,284882218,"Facebook, Inc.",Version,27,28,"The list of apps that you can use with Messenger is growing! Show your creativity by sending fun stuff like emojis, GIFs, sound clips and more. When sending a message, just tap the three dots to see apps that you can install directly from Messenger. We're also working on some new features to keep you even more connected to the people you care about, so stay tuned!"
+iOS,2015-05-23,454638411,Messenger,284882218,"Facebook, Inc.",Version,28,28.1,Fixed issues to make the app more reliable.
+iOS,2015-06-06,454638411,Messenger,284882218,"Facebook, Inc.",Version,28.1,29,"See more about who's contacting you: When someone messages you for the first time, you'll see info you have in common like mutual friends, groups you're both in and events you've attended together.Send a map of where you are, any place or pinned location: Now you can suggest a meeting spot, instantly update friends on where you are and so much more with just a few taps."
+iOS,2015-06-06,454638411,Messenger,284882218,"Facebook, Inc.",Name,Facebook Messenger,Messenger,
+iOS,2015-06-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,29,29.1,Fixed issues to make the app more reliable.
+iOS,2015-06-24,454638411,Messenger,284882218,"Facebook, Inc.",Version,29.1,30,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon"
+iOS,2015-07-01,454638411,Messenger,284882218,"Facebook, Inc.",Version,30,31,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon."
+iOS,2015-07-16,454638411,Messenger,284882218,"Facebook, Inc.",Version,31,32,Now you can sign up for Messenger without a Facebook account! All you need to start chatting is a phone number.
+iOS,2015-07-24,454638411,Messenger,284882218,"Facebook, Inc.",Version,32,32.1,Fixed issues to make the app more reliable.
+iOS,2015-08-04,454638411,Messenger,284882218,"Facebook, Inc.",Version,32.1,33,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon."
+iOS,2015-08-14,454638411,Messenger,284882218,"Facebook, Inc.",Version,33,34,Fixed issues to make the app more reliable.
+iOS,2015-08-28,454638411,Messenger,284882218,"Facebook, Inc.",Version,34,35,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon"
+iOS,2015-09-12,454638411,Messenger,284882218,"Facebook, Inc.",Version,35,36,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon."
+iOS,2015-09-16,454638411,Messenger,284882218,"Facebook, Inc.",Version,36,36.1,Fixed issues to make the app more reliable.
+iOS,2015-09-29,454638411,Messenger,284882218,"Facebook, Inc.",Version,36.1,37,"Thanks for using Messenger! We update the app around every two weeks so it continues to work great for you. We're also working on fun new features, and we're excited for you to try them out soon."
+iOS,2015-10-09,454638411,Messenger,284882218,"Facebook, Inc.",Version,37,38,"You can now use Messenger on watchOS 2! Send and receive voice clips, Likes, stickers and more. With iOS 9, you can now find Messenger contacts and conversations from your phone's search screen, and access Messenger from the list of multi-tasking apps on your iPad."
+iOS,2015-10-22,454638411,Messenger,284882218,"Facebook, Inc.",Version,38,45,Fixed issues to make the app more reliable.
+iOS,2015-10-30,454638411,Messenger,284882218,"Facebook, Inc.",Version,45,46,Keep your Messenger app running smoothly by updating to the latest versions when they come out.
+iOS,2015-11-07,454638411,Messenger,284882218,"Facebook, Inc.",Version,46,47,Fixed issues to make the app more reliable.
+iOS,2015-11-11,454638411,Messenger,284882218,"Facebook, Inc.",Version,47,48,We update the app every week so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2015-11-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,48,49,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2015-12-01,454638411,Messenger,284882218,"Facebook, Inc.",Version,49,50,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2015-12-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,50,51,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2015-12-16,454638411,Messenger,284882218,"Facebook, Inc.",Version,51,52,"With 3D Touch on the iPhone 6s and 6s Plus, you can send messages right from your home screen.
+
+Reach anyone on Messenger by sending them a message request. You don't need their phone number or to be their Facebook friend to contact them.
+
+See snowflakes fall across the screen when you send or receive winter related emojis and stickers."
+iOS,2016-01-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,52,53,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-01-21,454638411,Messenger,284882218,"Facebook, Inc.",Version,53,54,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-01-28,454638411,Messenger,284882218,"Facebook, Inc.",Version,54,55,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-02-03,454638411,Messenger,284882218,"Facebook, Inc.",Version,55,56,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-02-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,56,57,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-02-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,57,58,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-02-26,454638411,Messenger,284882218,"Facebook, Inc.",Version,58,59,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-03-03,454638411,Messenger,284882218,"Facebook, Inc.",Version,59,60,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-03-09,454638411,Messenger,284882218,"Facebook, Inc.",Version,60,61,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-03-18,454638411,Messenger,284882218,"Facebook, Inc.",Version,61,62,"Shoot some hoops: Want to see what's hiding behind the basketball emoji in Messenger? Just send one and tap it to find out!
+
+"
+iOS,2016-03-23,454638411,Messenger,284882218,"Facebook, Inc.",Version,62,63,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-03-31,454638411,Messenger,284882218,"Facebook, Inc.",Version,63,64,"Now you can see your call history and missed calls – all in one place.
+
+"
+iOS,2016-04-06,454638411,Messenger,284882218,"Facebook, Inc.",Version,64,65,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-04-11,454638411,Messenger,284882218,"Facebook, Inc.",Version,65,66,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-04-21,454638411,Messenger,284882218,"Facebook, Inc.",Version,66,67,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-04-29,454638411,Messenger,284882218,"Facebook, Inc.",Version,67,68,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-05-06,454638411,Messenger,284882218,"Facebook, Inc.",Version,68,69,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-05-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,69,70,Group calling: You can now call everyone in a group at once.
+iOS,2016-05-18,454638411,Messenger,284882218,"Facebook, Inc.",Version,70,71,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-05-26,454638411,Messenger,284882218,"Facebook, Inc.",Version,71,72,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-06-02,454638411,Messenger,284882218,"Facebook, Inc.",Version,72,73,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-06-09,454638411,Messenger,284882218,"Facebook, Inc.",Version,73,74,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-06-16,454638411,Messenger,284882218,"Facebook, Inc.",Version,74,75,"Goooal! Send the soccer emoji and play with friends.
+Plus, check out the new emoji that are only in Messenger.
+
+"
+iOS,2016-06-23,454638411,Messenger,284882218,"Facebook, Inc.",Version,75,76,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+
+"
+iOS,2016-07-02,454638411,Messenger,284882218,"Facebook, Inc.",Version,76,77,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+"
+iOS,2016-07-07,454638411,Messenger,284882218,"Facebook, Inc.",Version,77,78,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+"
+iOS,2016-07-13,454638411,Messenger,284882218,"Facebook, Inc.",Version,78,79,"3D Touch is now available for iPhone 6S and iPhone 6S Plus. Use to preview contacts, conversations, photos, videos, stickers, links and locations.
+"
+iOS,2016-07-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,79,80,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-07-27,454638411,Messenger,284882218,"Facebook, Inc.",Version,80,81,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-08-05,454638411,Messenger,284882218,"Facebook, Inc.",Version,81,82,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-08-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,82,83,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-08-19,454638411,Messenger,284882218,"Facebook, Inc.",Version,83,84,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-08-25,454638411,Messenger,284882218,"Facebook, Inc.",Version,84,85,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-08-31,454638411,Messenger,284882218,"Facebook, Inc.",Version,85,86,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-09-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,86,87,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-09-14,454638411,Messenger,284882218,"Facebook, Inc.",Version,87,88,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-09-21,454638411,Messenger,284882218,"Facebook, Inc.",Version,88,89,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-09-28,454638411,Messenger,284882218,"Facebook, Inc.",Version,89,90,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-10-06,454638411,Messenger,284882218,"Facebook, Inc.",Version,90,91,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-10-12,454638411,Messenger,284882218,"Facebook, Inc.",Version,91,92,"We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+
+"
+iOS,2016-10-21,454638411,Messenger,284882218,"Facebook, Inc.",Version,92,93,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-10-28,454638411,Messenger,284882218,"Facebook, Inc.",Version,93,94,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-11-04,454638411,Messenger,284882218,"Facebook, Inc.",Version,94,95,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-11-10,454638411,Messenger,284882218,"Facebook, Inc.",Version,95,96,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-11-17,454638411,Messenger,284882218,"Facebook, Inc.",Version,96,97,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-11-22,454638411,Messenger,284882218,"Facebook, Inc.",Version,97,98,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-12-07,1,Messenger,1,1,Version,Rand,99.0,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-12-15,1,Messenger,1,1,Version,Rand,100.0,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2016-12-20,1,Messenger,1,1,Version,Rand,100.1,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2017-01-19,1,Messenger,1,1,Version,Rand,101.0,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2017-01-24,1,Messenger,1,1,Version,Rand,102.0,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2017-02-01,1,Messenger,1,1,Version,Rand,103.0,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!
+iOS,2017-02-01,1,Messenger,1,1,Version,Rand,103.0,We update the app regularly so we can make it better for you. Get the latest version for all of the available features and improvements. Thanks for using Messenger!

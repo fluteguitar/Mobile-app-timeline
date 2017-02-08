@@ -1,0 +1,33 @@
+change_logs:
+  dir: data/iOS/version-logs/
+  database_name: database.csv
+  range_of_query: 1
+  apps_src_dest:
+    Zalo: 
+      - http://appshopper.com/social-networking/zalo-nh%E1%BA%AFn-tin-ki%E1%BB%83u-m%E1%BB%9Bi
+      - App_Annie_Store_Stats_TimeLine_iOS_Zalo.csv
+    Messenger: 
+      - http://appshopper.com/social-networking/facebook-messenger-2
+      - App_Annie_Store_Stats_TimeLine_iOS_Messenger.csv
+    Viber:
+      - http://appshopper.com/social-networking/viber-free-phone-calls
+      - App_Annie_Store_Stats_TimeLine_iOS_Viber.csv
+    BIGO:      
+      - http://appshopper.com/social-networking/bigo-live
+      - App_Annie_Store_Stats_TimeLine_iOS_BIGO LIVE - Live Broadcasting.csv
+    WeChat:
+      - http://appshopper.com/social-networking/%E5%BE%AE%E4%BF%A1
+      - App_Annie_Store_Stats_TimeLine_iOS_WeChat.csv
+rank:
+  dir: data/iOS/
+  ranking_file: ranking.csv
+  message_file: message.csv
+  apps_list:
+    - Zalo
+    - Messenger
+    - BIGO LIVE - Live Broadcasting
+    - Viber Messenger
+  path: app-ranking-charts-top-400
+  store_name: ios
+  country_code: vn
+  category: all

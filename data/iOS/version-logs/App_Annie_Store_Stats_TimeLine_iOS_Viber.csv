@@ -1,0 +1,482 @@
+Platform,Date,App ID,App Name,Publisher ID,Publisher Name,Update Type,Previous Value,New Value,Notes
+iOS,2010-11-14,382617920,Viber,382617923,Viber Media SARL.,Version,1,1.0.3,"- Improved audio
+"
+iOS,2010-11-14,382617920,Viber,382617923,Viber Media SARL.,Name,Viber,Viber - Free Phone Calls,
+iOS,2010-11-25,382617920,Viber,382617923,Viber Media SARL.,Version,1.0.3,1.0.4,"- Fix for iOS 3 crash
+- Improved sound quality
+- Improved Bluetooth support
+"
+iOS,2010-12-16,382617920,Viber,382617923,Viber Media SARL.,Version,1.0.4,1.0.5,"This is a bug fix version. Stay tuned for new features soon...
+
+- Fixed: Viber is stuck on busy after network-related problems
+- Fixed: on iOS 3.1.x, after exiting Viber, starting Viber again immediately may fail
+- Fixed: on iOS 3.1.x, registration restarts when exiting Viber to read SMS
+- Fixed: voice engine audio interrupt issues (e.g. incoming GSM call)
+- Fixed: Ringback tone sometimes not heard via speakers
+- Fixed: crash during startup
+- Fixed: call screen disappears during call
+- Workaround: no-audio problem after using an old (1.1) Bluetooth device
+- Added: help on how to turn notifications back on
+- Added: help with activation (SMS) issues
+- Cosmetic changes
+
+"
+iOS,2011-01-24,382617920,Viber,382617923,Viber Media SARL.,Version,1.0.5,1.1,"We’ve got new features!
+
+* Call quality indicator: keep track of your call quality with the new call quality indicator! During a Viber call, you’ll find the indicator at the top right-hand corner of your call screen. This will show you the quality of your network, which affects your Viber conversation quality.
+
+* Privacy policy: We respect your privacy. View the policy right off of the Viber application – simply go to the ‘More’ tab and click on Privacy Policy.
+
+Bugs be-gone!
+
+* Voice quality improvement: our top priority is to deliver the best audio calls. We made changes and improvements to make it even better…!
+
+* Call connection improvement: did some of your Viber calls get stuck on ‘Answering…’? Or did you not hear your friend well at the start of your conversation? 
+We made fixes based on your feedback and requests. Let us know if you still experience any of these issues.
+
+* Bluetooth improvement: Bluetooth support is now working much better on Viber. So talk with a free Viber call, and hands free as well.
+
+* Country code improvement: we have improved the country codes on Viber. If you have been having problems setting up Viber because of this issue, check the list of updates on our support site: http://support.viber.com/
+
+And more bug fixes."
+iOS,2011-03-31,382617920,Viber,382617923,Viber Media SARL.,Version,1.1,2.0.1,"What’s New?
+ 
+1.            Viber now has free text messaging!
+Send and receive free text messages to and from all your Viber contacts. We’ve added a new tab called Messages. To send a text, simply select a contact from your list, and start texting for free.
+New “Free Text Message” button added to Viber contact details. 
+Tap this button to send this user a free message.
+ 
+Viber will also notify you about incoming messages so you won’t miss a word single text.
+ 
+2.            Favorites tab location changed 
+To view your ‘Favorites’ - go to the contacts tab, and tap the Favorites button at the top.
+ 
+3.            Improved calling mechanism 
+Now, you’ll always know the status of your outgoing calls.
+Once a call is placed, a “Calling” state will indicate that Viber is now connecting to the other party.
+Once a connection is established, a “Ringing” state will indicate that the other party’s Viber, is now actually ringing (note that a call can still be established even if you don't see the ""Ringing"" state).
+ 
+4.            Placing regular calls through Viber
+A “Don’t show again” option was added for to the “Place a regular carrier call” inform dialog.
+ 
+5.            Giving You More Control 
+A new option provides the ability to deactivate your Viber account, so that you can easily reactivate Viber with a new phone number.
+Find this option under the ‘More’ menu.
+ 
+Important! Don’t kill Viber!
+ 
+To make sure you always get incoming call/message notifications and that an incoming Viber call is rejected as ""busy"" when you're on a regular call, we strongly recommend that you to keep Viber running in the background. 
+This does not drain your battery or use up memory and improves your Viber experience.
+ 
+Bugs be-gone! 
+ 
+1. Who has Viber?
+Missed out on some Viber contacts? We’ve now improved the Viber recognition engine. So check out your Viber contact list, and see who else have has Viber.
+ 
+2. Improved Badges
+Viber badges are now more reliable and will notify you about the number of your missed calls & unread messages.
+ 
+3. Connectivity
+Since the release of Viber, we’ve continued making several improvements to our calling mechanism. On In Viber 2.0, we fixed the “stuck on answering” bug, and improved the time it takes calls to connect.
+ 
+4. And other small fixes…"
+iOS,2011-04-09,382617920,Viber,382617923,Viber Media SARL.,Version,2.0.1,2.0.2,"- Fixed graphics for standard resolution (e.g. 3GS)
+- Disabled vibration for message reception/sending
+- Bug fixes
+"
+iOS,2011-06-13,382617920,Viber,382617923,Viber Media SARL.,Version,2.0.2,2.0.3,bug fixes
+iOS,2011-07-26,382617920,Viber,382617923,Viber Media SARL.,Version,2.0.3,2.0.4,Minor bug fixes
+iOS,2011-07-26,382617920,Viber,382617923,Viber Media SARL.,Name,Viber - Free Phone Calls,Viber - Free Phone Calls & Text,
+iOS,2011-10-12,382617920,Viber,382617923,Viber Media SARL.,Version,2.0.4,2.1.0,"IMPORTANT: if you are still using iOS 3.x please do NOT upgrade to this version.
+
+Viber for iPhone let’s lets you make free phone calls and send free text messages to other iPhone users that have Viber installed.
+
+What’s New in Version 2.1
+- iOS 5 compatible.
+- Improved voice quality – All new Voice engine! Your calls will sound better than ever when talking to other users with Viber 2.1. Even on networks with less bandwidth, such as EDGE networks.
+- Viber is now location-aware! Share your current location with your contacts so that they will know from where your message was sent. When sharing your current location, it will be attached to every outgoing message. You can enable or disable this option by tapping the location services icon inside the input box. 
+- Viber now lets you send and receive Photos via Viber messages. To send photos, just tap on the ‘photos’ button, which has been added to the left of the input box.
+You will now be able to take a photo, or send an existing one from your library.
+- Share your photos with others - Photos can be shared on Facebook, sent via mail, and forwarded through Viber to other Viber contacts. 
+
+User Experience
+We are constantly working to improve the user experience on Viber; this involves research and analytics efforts along with reviewing your feedback.
+
+- We changed the order of the tabs in order to improve accessibility to the ‘Messages’ section. This section contains all of your recent messages. You can now place calls right from the conversation screen.
+- Know when your friend is there, and actually answering your recently sent message. New “is typing” indicator will be shown to notify you when he or she is typing a new message for you.
+- Landscape support for Messages – the option you all were looking for is now supported.
+- New and improved ‘Busy’ screen – if your contact is currently busy, you can simply leave him or her a free text message.
+- Minor improvements to messages sending behavior - Viber will now try harder to deliver your messages: If your message was not sent, you will be notified, and you will have the option to resend it.
+- We have rearranged the ‘More’ screen, and added new customization features that can be accessed via the new ‘Settings’ section.
+- And of course we removed many many bugs…(and possibly added a few ☺ ).
+
+***
+If you have any suggestions, questions or comments, please visit: http://helpme.viber.com/
+We are always happy to hear your thoughts.
+"
+iOS,2011-10-15,382617920,Viber,382617923,Viber Media SARL.,Version,2.1.0,2.1.1,"Bug fixes
+
+"
+iOS,2011-10-28,382617920,Viber,382617923,Viber Media SARL.,Version,2.1.1,2.1.2,"iOS 3.1 support
+Bug fixes
+"
+iOS,2011-11-29,382617920,Viber,382617923,Viber Media SARL.,Version,2.1.2,2.1.3,"*Bug fixes
+*Better iOS 3.x and iPhone 3G support
+"
+iOS,2012-01-27,382617920,Viber,382617923,Viber Media SARL.,Version,2.1.3,2.1.4,Bug fixes
+iOS,2012-03-17,382617920,Viber,382617923,Viber Media SARL.,Version,2.1.4,2.1.5,"* You can now export your message history
+* Registering again on the same device would not require activation
+* Bug fixes
+"
+iOS,2012-07-24,382617920,Viber,382617923,Viber Media SARL.,Version,2.1.5,2.2.0,"- Group Messaging: you can now send free messages to groups of friends.
+- Assign a custom background to conversation.
+- Photos were added to the Contacts list
+- New voice engine and Improved sound quality.
+- Added time stamp for each message. 
+- See who joined Viber lately when viewing the Contacts screen."
+iOS,2012-09-04,382617920,Viber,382617923,Viber Media SARL.,Version,2.2.0,2.2.1,"What's New on v2.2.1:
+- Viber is now localized to: Arabic, Traditional Chinese, Simplified Chinese, French, German, Spanish, Russian, Hebrew and Portuguese Portugal.
+- Several bug fixes.
+
+What's New on v2.2:
+- Group Messaging: you can now send free messages to groups of friends.
+- Assign a custom background to conversations.
+- Photos were added to contacts.
+- New voice engine and improved sound quality.
+- Added time stamps to messages.
+- See who joined Viber lately when viewing the Contacts screen.
+"
+iOS,2012-09-30,382617920,Viber,382617923,Viber Media SARL.,Version,2.2.1,2.2.2,"What’s new in v2.2.2:
+- Viber is now localized to: Japanese, Portuguese Brazil, Catalan Italian, Arabic, Traditional Chinese, Simplified Chinese, French, German, Spanish, Russian, Hebrew and Portuguese Portugal. 
+- iOS 6 support.
+- Several bug fixes.
+
+v2.2:
+- Group Messaging: send free messages to groups of friends.
+- Better messaging experience.
+"
+iOS,2012-12-18,382617920,Viber,382617923,Viber Media SARL.,Version,2.2.2,2.3.0,"- Share stickers with friends, making text messaging fun
+- Include emoticons in text messages 
+- Send locations as messages
+- Enhanced messaging experience with new interface and sounds
+- Connect with your friends in group conversations of up to 40 participants
+- Optimized design for iPhone5 and iOS6, including new keypad
+"
+iOS,2012-12-18,382617920,Viber,382617923,Viber Media SARL.,Icon,https://static-s.aa-cdn.net/img/ios/382617920/9f8e5e033e1802b521d7303fd035d63e,https://static-s.aa-cdn.net/img/ios/382617920/b36a84d81873157eaa864f9e5fd2b610,
+iOS,2013-01-22,382617920,Viber,382617923,Viber Media SARL.,Version,2.3.0,2.3.1,"- Speech to text is now working 
+- Arabic and Thai typing bug fixes
+- Additional bug fixes
+
+And all the great features from 2.3: 
+- Share stickers with friends, making text messaging fun
+- Include emoticons in text messages 
+- Send locations as messages
+- Optimized design for iPhone5 and iOS6, including new keypad
+"
+iOS,2013-05-07,382617920,Viber,382617923,Viber Media SARL.,Version,2.3.1,3,"•	 Support for all new Viber Desktop - on Windows and MacOS!!
+•	 Transfer live calls between Viber on your iPhone and Viber on Desktop 
+•	 You can now send video messages to your friends
+•	 All new voice engine improves sound quality on both low quality and high quality networks
+•	 Online status indicator tells you when your friends are connected to Viber. Note: users can receive messages even when not connected!
+•	 In app banner indicates that you received new messages
+•	 Automatically download new photos for faster viewing
+•	 You can now add a caption to the photos and videos you send
+•	 Easily browse through photos received from specific users or groups
+•	 Show only groups in messages screen, so you can quickly find a specific group
+•	 Larger photos and larger photo thumbnails
+•	 Better looking contact info screen 
+•	 New package of fun stickers 
+•	Accessibility is now supported
+
+•	Viber is also localized to: Czech, Danish, Greek, Finnish, Hungarian, Polish, Swedish, Turkish, Korean, Dutch, Thai, Vietnamese, Malay and Indonesian (In addition to previous languages: Russian, Arabic, Hebrew, Japanese, Chinese (Simplified), Chinese (Traditional), Spanish, Catalan, German, French, Italian, Portuguese and Portuguese (Brazil)).
+
+•	Performance improvements and multiple bug fixes.
+•	So many more small features that we can't even remember..."
+iOS,2013-08-01,382617920,Viber,382617923,Viber Media SARL.,Version,3,3.1,"•	Send doodles or paint over a photo and share it with your friends!
+•	“Seen” status lets you know when your messages have been seen
+•	Support for the Viber Desktop application on Windows and Mac 
+•	Fun new emoticons
+•	Message performance improvements
+•	 Bug fixes 
+•	Localized to: Croatian, Norwegian, Romanian, Slovak and Ukrainian"
+iOS,2013-08-01,382617920,Viber,382617923,Viber Media SARL.,Name,Viber - Free Phone Calls & Text,Viber,
+iOS,2013-08-13,382617920,Viber,382617923,Viber Media SARL.,Version,3.1,3.1.2,"We fixed the crash that some users experienced in first launch.
+Additional bug fixes.
+
+What's new on v3.1?
+•	Send doodles or paint over a photo and share it with your friends! 
+•	“Seen” status lets you know when your messages have been seen 
+•	Support for the Viber Desktop application on Windows and Mac 
+•	Fun new emoticons 
+•	Message performance improvements 
+•	Localized to: Croatian, Norwegian, Romanian, Slovak and Ukrainian"
+iOS,2013-08-16,382617920,Viber,382617923,Viber Media SARL.,Version,3.1.2,3.1.3,"We fixed the crash that some users experienced in first launch. 
+Additional bug fixes. 
+
+What's new on v3.1? 
+•	Send doodles or paint over a photo and share it with your friends! 
+•	“Seen” status lets you know when your messages have been seen 
+•	Support for the Viber Desktop application on Windows and Mac 
+•	Fun new emoticons 
+•	Message performance improvements 
+•	Localized to: Croatian, Norwegian, Romanian, Slovak and Ukrainian"
+iOS,2013-09-15,382617920,Viber,382617923,Viber Media SARL.,Version,3.1.3,3.1.4,"Bug fixes.
+Basic support for iOS 7."
+iOS,2013-09-20,382617920,Viber,382617923,Viber Media SARL.,Version,3.1.4,3.1.5,Bug fixes.
+iOS,2013-11-13,382617920,Viber,382617923,Viber Media SARL.,Version,3.1.5,4,"• Download over 1000 new stickers from the Sticker Market
+• Significant performance improvements
+• Instant Hold and Talk - Send voice messages. Your friend will hear you as you speak!
+• Forward any message to a contact or group
+• Select conversation backgrounds from our new background gallery
+• Add up to 100 participants to group conversations"
+iOS,2013-12-12,382617920,Viber,382617923,Viber Media SARL.,Version,4,4.1,"• Viber Out: call non-Viber mobile or landline numbers at low rates
+• Download many new free and paid stickers from the Sticker Market
+• Bug fixes"
+iOS,2014-01-06,382617920,Viber,382617923,Viber Media SARL.,Version,4.1,4.1.1,Bug fixes
+iOS,2014-04-23,382617920,Viber,382617923,Viber Media SARL.,Version,4.1.1,4.2,"・A complete redesign, compatible with iOS 7
+・Send multiple photos and videos at the same time 
+・Block list – now you can block any number or contact
+・Send longer video messages
+・Bug fixes"
+iOS,2014-05-08,382617920,Viber,382617923,Viber Media SARL.,Version,4.2,4.2.1,"・Enhancements to the way Viber handles photo, video and location messages.
+・Bug fixes.
+"
+iOS,2014-09-11,382617920,Viber,382617923,Viber Media SARL.,Version,4.2.1,5.0.0,"• Make video calls from your phone to other Viber contacts on mobile or Desktop. You can also transfer video calls between mobile and Desktop!
+• Add friends easily by entering their Viber number or scanning their QR code 
+• Manage sticker packs - turn packs on/off and reorder packs
+• Easily forward photo and video messages "
+iOS,2014-10-13,382617920,Viber,382617923,Viber Media SARL.,Version,5.0.0,5.0.1,"• Version 5.0.1
+    o Fixed several crashes, thank you for reporting
+
+• Version 5.0
+    o Make video calls from your phone to other Viber contacts on mobile or Desktop
+    o Add friends easily by entering their Viber number or scanning their QR code
+    o Manage sticker packs - turn packs on/off and reorder packs
+    o Easily forward photo and video messages"
+iOS,2014-11-19,382617920,Viber,382617923,Viber Media SARL.,Version,5.0.1,5.1,"• iOS 8 feature support:
+    ○ Interactive notifications – Allows you to quickly interact directly with your notifications
+    ○ Share extension – Share content quickly and easily directly from other apps using Viber
+• Design changes and improvements provide a faster, more intuitive user experience
+• Stability and performance improvements and bug fixes"
+iOS,2014-11-27,382617920,Viber,382617923,Viber Media SARL.,Version,5.1,5.1.1,"• Public Chats:  Follow group conversations and find the latest chat about whatever you’re into. You can also 'like’ content, including messages, photos, videos, links and more. 
+• iOS 8 feature support:
+o Interactive notifications – Allows you to quickly interact directly with your notifications
+o Share extension – Share content quickly and easily directly from other apps using Viber
+• Design changes and improvements provide a faster, more intuitive user experience
+• Stability and performance improvements and bug fixes"
+iOS,2014-12-16,382617920,Viber,382617923,Viber Media SARL.,Version,5.1.1,5.2.0,"• Sticker Menu – newly downloaded stickers pack are easier to find; scroll directly to them when you open the sticker menu
+• Public Chats – updates and bug fixes
+• General stability and bug fixes to improve overall performance"
+iOS,2015-01-07,382617920,Viber,382617923,Viber Media SARL.,Version,5.2.0,5.2.1,"•Support for iPhone 6 and iPhone 6 Plus
+•New Emoticons
+•Bug fixes"
+iOS,2015-02-15,382617920,Viber,382617923,Viber Media SARL.,Version,5.2.1,5.2.2,Bug fixes and updated emoticons
+iOS,2015-04-01,382617920,Viber,382617923,Viber Media SARL.,Version,5.2.2,5.3.0,"•Become an Admin and manage your group chats; edit info and delete participants
+•Public Chat enhancements
+•Bug fixes"
+iOS,2015-04-14,382617920,Viber,382617923,Viber Media SARL.,Version,5.3.0,5.3.1,Fixed a bug regarding contact selection
+iOS,2015-04-17,382617920,Viber,382617923,Viber Media SARL.,Version,5.3.1,5.3.2,iOS 8.3 improvements
+iOS,2015-05-12,382617920,Viber,382617923,Viber Media SARL.,Version,5.3.2,5.3.3,Stability improvements
+iOS,2015-06-04,382617920,Viber,382617923,Viber Media SARL.,Version,5.3.3,5.4,"• View your call history directly from your chats
+• Chat while you call – minimize your Viber call and open any other screen within the app without interrupting your conversation
+• Personalise your groups with your own icon 
+• Connect with friends easily – add a new contact with a QR code and start chatting immediately
+• Clearer contact info – see a person’s name and photo when you interact, even if they’re not saved in your contact list
+• When you change the text size on your phone’s setting, the changes will automatically apply on Viber."
+iOS,2015-06-29,382617920,Viber,382617923,Viber Media SARL.,Version,5.4,5.4.1,Full iPad support – you can now enjoy all of Viber’s features on your iPad!
+iOS,2015-07-01,382617920,Viber,382617923,Viber Media SARL.,Version,5.4.1,5.4.2,v5.4.2 - We fixed the bug causing some users the loss of conversation data when upgrading. Sorry about that.
+iOS,2015-08-04,382617920,Viber,382617923,Viber Media SARL.,Version,5.4.2,5.5.0,"• Share contacts – exchange contact information as a message in both one-to-one and group conversations
+• Easier video calling – start a video call directly from your recent calls list or from a contact’s profile 
+• Rich link – drop a link into a message and Viber will create a bubble with the link content
+• Share the vibes – invite an entire group to follow a Public Chat"
+iOS,2015-08-25,382617920,Viber,382617923,Viber Media SARL.,Version,5.5.0,5.5.1,Improved spam handling
+iOS,2015-09-15,382617920,Viber,382617923,Viber Media SARL.,Version,5.5.1,5.5.2,Improved spam handling
+iOS,2015-09-30,382617920,Viber,382617923,Viber Media SARL.,Version,5.5.2,5.6.0,"- Group Likes – ‘like’ messages in group chats and see who's loving your vibe
+- Forward Public Chat messages – share content with your friends more easily 
+- Write freely – text messages can now be up to 7,000 characters long
+- Better video messaging – new features to improve the experience"
+iOS,2015-10-27,382617920,Viber,382617923,Viber Media SARL.,Version,5.6.0,5.6.1,Apple Watch support – read and reply to messages and send exclusive stickers straight from your wrist
+iOS,2015-11-24,382617920,Viber,382617923,Viber Media SARL.,Version,5.6.1,5.6.5,"•Attach files – Send messages with documents, presentations, archives and other files, directly via Viber
+•Delete sent messages – Remove a message from all members of the conversation even after it’s been sent
+•Interactive notifications - Reply to messages without opening Viber (for iOS 9 users)
+•Spotlight Search – Look for Viber conversations and contacts from Spotlight Search (iOS 9 users)
+•iCloud access – Send photos and videos directly from your iCloud storage"
+iOS,2015-12-22,382617920,Viber,382617923,Viber Media SARL.,Version,5.6.5,5.7.0,"•Viber now works with Wink messages – check out the Wink app to send messages that disappear after they’ve been viewed
+•More detailed info in group chats – see which of your friends have read your message
+•'Keep media' setting – choose how long your photos and videos are stored for
+•New share menu – share Viber more easily with your friends 
+•Design enhancements to introduction screens"
+iOS,2016-01-10,382617920,Viber,382617923,Viber Media SARL.,Version,5.7.0,5.7.1,Stability improvements
+iOS,2016-02-23,382617920,Viber,382617923,Viber Media SARL.,Version,5.7.1,5.8,"• More detailed info in group chats – see which of your friends have read and liked any message
+• 3D touch support – short cut to create a new message or access your latest chats  
+• Split View and Slide Over for Multitasking on iPad
+• Conversation Gallery – see all your photos and videos from a chat in one place
+• Improved Search"
+iOS,2016-03-01,382617920,Viber,382617923,Viber Media SARL.,Version,5.8,5.8.1,Stability Improvements
+iOS,2016-04-19,382617920,Viber,382617923,Viber Media SARL.,Version,5.8.1,6,"Viber's new privacy-enhanced version includes:
+•Increased security – the padlock icon confirms that all your messages – including groups and cross platform messages – are end-to-end encrypted 
+•Hidden Chats – hide away specific chats so nobody knows they even exist
+•Contact authentication  – a new layer of security allows you to protect yourself further with a simple ‘trust contact’ mechanic 
+• ‘Like’ media from the preview screen – click the heart to like photos and videos even while you’re watching them
+•Reduced app size – Viber now takes up less space on your phone."
+iOS,2016-04-21,382617920,Viber,382617923,Viber Media SARL.,Version,6,6.0.1,Stability improvements
+iOS,2016-05-04,382617920,Viber,382617923,Viber Media SARL.,Version,6.0.1,6.0.2,Workaround for devices without camera - Alternative authentication for your secondary device so that you can enjoy end-to-end encryption even if you can't scan QR codes
+iOS,2016-06-06,382617920,Viber,382617923,Viber Media SARL.,Version,6.0.2,6.1,"•Back up and restore Viber messages - Manually save your Viber message history to iCloud and restore with the most recent backup file 
+•Animated GIF support - Send, receive and view GIFs through any conversation
+•Viber Out calling plans - Access your balance and purchase new credits or special low-rate calling plans via a redesigned screen
+•Apple Watch OS 2 support - Run Viber on Apple Watch OS 2
+•Now send money from the U.S. to virtually anyone in more than 200 countries and territories, powered by Western Union®. Send cash for pickup from a Western Union® agent location worldwide, or send directly to a bank account in nearly 50 countries"
+iOS,2016-06-20,382617920,Viber,382617923,Viber Media SARL.,Version,6.1,6.1.5,"•Back up and restore Viber messages - Manually save your Viber message history to iCloud and restore with the most recent backup file 
+•Animated GIF support - Send, receive and view GIFs through any conversation
+•Viber Out calling plans - Access your balance and purchase new credits or special low-rate calling plans via a redesigned screen
+•Apple Watch OS 2 support - Run Viber on Apple Watch OS 2
+•Now send money from the U.S. to virtually anyone in more than 200 countries and territories, powered by Western Union®. Send cash for pickup from a Western Union® agent location worldwide, or send directly to a bank account in nearly 50 countries"
+iOS,2016-07-25,382617920,Viber,382617923,Viber Media SARL.,Version,6.1.5,6.2,"●Share sticker packages - Does someone specific come to mind when you see a new sticker package? Let them know it’s available in the Sticker Market instantly
+●Storage consumption optimization - Including option to delete sticker packages you no longer use to free up space
+●Sticker preview - Long tap stickers to preview them before you send
+●Now send money from the U.S. to virtually anyone in more than 200 countries and territories, powered by Western Union®"
+iOS,2016-08-04,382617920,Viber,382617923,Viber Media SARL.,Version,6.2,6.2.1,"●Share sticker packages - Does someone specific come to mind when you see a new sticker package? Let them know it’s available in the Sticker Market instantly
+●Storage consumption optimization - Including option to delete sticker packages you no longer use to free up space
+●Sticker preview - Long tap stickers to preview them before you send"
+iOS,2016-08-10,382617920,Viber,382617923,Viber Media SARL.,Version,6.2.1,6.2.2,Stability improvements
+iOS,2016-09-15,382617920,Viber,382617923,Viber Media SARL.,Version,6.2.2,6.3.1,"•User interface updates
+•Performance and data consumption improvements
+•Video call screen improvements including option to answer as audio or video call
+•One-tap media and voice message sending
+•Use voice commands to send messages and make calls with Siri on iOS 10 
+•Incoming calls and recent call history unified with iOS 10 interface
+•Complications support for Apple Watch users"
+iOS,2016-09-15,382617920,Viber,382617923,Viber Media SARL.,Description,"With Viber, everyone in the world can connect. Freely. Viber has more than 754 million users worldwide sending messages and making HD-quality phone and video calls securely over Wi-Fi or mobile network - for free.* You can create group messages with up to 200 friends, share photos, video, GIFs, stickers, links and more. There’s no need to register – your phone number is your ID and Viber syncs with your mobile contact list automatically. If you want to make calls to non-Viber mobile and landline numbers, Viber Out credits offer low rates. You can also download Viber Wink to send messages that disappear after they’ve been viewed.
+●	End-to-end encryption for all messages, voice and video calls
+●	Message your friends (texts can be up to 7,000 characters long)
+●	Make free phone and video calls with HD sound quality
+●	Share photos, videos, voice messages, locations, contact info, rich links, stickers and emoticons 
+●	Download static and animated stickers from the Sticker Market to make messaging fun!
+●	Create group messages with up to 200 participants; ‘like’ each other’s messages; manage your group chats as an Admin, editing info and deleting participants
+●	Follow Public Chats – get on the inside with your favorite celebs, brands and personalities; watch their conversations unfold in real-time, ‘like’ comments, forward Public Chats messages and share multi-media content
+●	Play games with Viber characters, Violet and Legcat; see how many coins you can earn
+●	Attach files – send messages with documents, presentations, archives and most other files via Viber
+●	Delete a message from all members of the conversation, even after it’s been sent
+●	Push notifications guarantee that you never miss a call or message, even when Viber is off
+●	Support for the Viber Desktop application on Windows, Mac, Linux and Windows 8
+●	Full iPad support including Split View and Multitasking
+●	Apple Watch support – read and reply to messages and send exclusive stickers straight from your wrist
+●	3D touch support 
+●	iCloud access – send photos and videos directly from your iCloud storage
+Localized to: Arabic, Catalan, Chinese (SP), Chinese (TR), Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese (BR), Portuguese (PT), Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian and Vietnamese
+
+Viber is completely free. 
+We value your privacy. 
+
+Follow us for updates and news:
+Facebook - http://facebook.com/viber
+Twitter - http://twitter.com/viber
+__________
+(*) Network data charges may apply","With Viber, everyone in the world can connect. Freely. Viber has more than 754 million users worldwide sending messages and making HD-quality phone and video calls securely over WiFi or mobile network - for free.* You can create group messages with up to 200 friends, share photos, video, GIFs, stickers, links and more. There’s no need to register – your phone number is your ID and Viber syncs with your mobile contact list automatically. If you want to make calls to non-Viber mobile and landline numbers, Viber Out credits offer low rates. You can also download Viber Wink to send messages that disappear after they’ve been viewed.
+•	End-to-end encryption for all messages, voice and video calls
+•	Message your friends (texts can be up to 7,000 characters long)
+•	Make free phone and video calls with HD sound quality
+•	Share photos, videos, voice messages, locations, contact info, rich links, stickers and emoticons 
+•	Download static and animated stickers from the Sticker Market to make messaging fun!
+•	Create group messages with up to 200 participants; ‘like’ each other’s messages; manage your group chats as an Admin, editing info and deleting participants
+•	Follow Public Chats – get on the inside with your favorite celebs, brands and personalities; watch their conversations unfold in real-time, ‘like’ comments, forward Public Chats messages and share multi-media content
+•	Play games with Viber characters, Violet and Legcat; see how many coins you can earn
+•	Attach files – send messages with documents, presentations, archives and most other files via Viber
+•	Delete a message from all members of the conversation, even after it’s been sent
+•	Push notifications guarantee that you never miss a call or message, even when Viber is off
+•	Support for the Viber Desktop application on Windows, Mac, Linux and Windows 8
+•	Full iPad support including Split View and Multitasking
+•	Apple Watch support – read and reply to messages and send exclusive stickers straight from your wrist
+•	3D touch support 
+•	iCloud access – send photos and videos directly from your iCloud storage
+Localized to: Arabic, Catalan, Chinese (SP), Chinese (TR), Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese (BR), Portuguese (PT), Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian and Vietnamese
+
+Viber is completely free. 
+We value your privacy. 
+
+Follow us for updates and news:
+Facebook - http://facebook.com/viber
+Twitter - http://twitter.com/viber
+__________
+(*) Network data charges may apply",
+iOS,2016-09-22,382617920,Viber,382617923,Viber Media SARL.,Version,6.3.1,6.3.3,"•User interface updates
+•Performance and data consumption improvements
+•Video call screen improvements including option to answer as audio or video call
+•One-tap media and voice message sending
+•Use voice commands to send messages and make calls with Siri on iOS 10 
+•Incoming calls and recent call history unified with iOS 10 interface
+•Complications support for Apple Watch users"
+iOS,2016-09-30,382617920,Viber,382617923,Viber Media SARL.,Version,6.3.3,6.3.4,"Restore your notification sounds by restarting your phone. This should work around the iOS 10 bug that changed device sounds. To restart your device, press and hold the home and power buttons for 10 seconds."
+iOS,2016-11-09,382617920,Viber,382617923,Viber Media SARL.,Version,6.3.4,6.5.0,"•NEW FEATURE: Chat with your favorite brands, businesses, bots and personalities on Public Accounts. Follow them for news and updates; subscribe to get direct messages.
+•Send photos, videos and voice messages with a tap through the new media menu."
+iOS,2016-11-09,382617920,Viber,382617923,Viber Media SARL.,Description,"With Viber, everyone in the world can connect. Freely. Viber has more than 754 million users worldwide sending messages and making HD-quality phone and video calls securely over WiFi or mobile network - for free.* You can create group messages with up to 200 friends, share photos, video, GIFs, stickers, links and more. There’s no need to register – your phone number is your ID and Viber syncs with your mobile contact list automatically. If you want to make calls to non-Viber mobile and landline numbers, Viber Out credits offer low rates. You can also download Viber Wink to send messages that disappear after they’ve been viewed.
+•	End-to-end encryption for all messages, voice and video calls
+•	Message your friends (texts can be up to 7,000 characters long)
+•	Make free phone and video calls with HD sound quality
+•	Share photos, videos, voice messages, locations, contact info, rich links, stickers and emoticons 
+•	Download static and animated stickers from the Sticker Market to make messaging fun!
+•	Create group messages with up to 200 participants; ‘like’ each other’s messages; manage your group chats as an Admin, editing info and deleting participants
+•	Follow Public Chats – get on the inside with your favorite celebs, brands and personalities; watch their conversations unfold in real-time, ‘like’ comments, forward Public Chats messages and share multi-media content
+•	Play games with Viber characters, Violet and Legcat; see how many coins you can earn
+•	Attach files – send messages with documents, presentations, archives and most other files via Viber
+•	Delete a message from all members of the conversation, even after it’s been sent
+•	Push notifications guarantee that you never miss a call or message, even when Viber is off
+•	Support for the Viber Desktop application on Windows, Mac, Linux and Windows 8
+•	Full iPad support including Split View and Multitasking
+•	Apple Watch support – read and reply to messages and send exclusive stickers straight from your wrist
+•	3D touch support 
+•	iCloud access – send photos and videos directly from your iCloud storage
+Localized to: Arabic, Catalan, Chinese (SP), Chinese (TR), Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese (BR), Portuguese (PT), Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian and Vietnamese
+
+Viber is completely free. 
+We value your privacy. 
+
+Follow us for updates and news:
+Facebook - http://facebook.com/viber
+Twitter - http://twitter.com/viber
+__________
+(*) Network data charges may apply","Connect freely with over 800M users worldwide!
+
+Viber is a free messaging and calling app that keeps you connected to anyone in the world through your Internet connection*. It’s the most expressive way to keep in touch with your loved ones and connect with anyone worldwide!  
+
+Choose a contact from your phone book or simply enter a phone number to add a new contact on Viber. Make audio or video calls, text, share photos and videos, express yourself with thousands of stickers to choose from, record audio messages and even send files.
+
+●	Group chat - Create groups with up to 200 participants and “like” messages when you don’t have time to reply
+●	Hassle-free, long-distance calls - Free international calling without having to set up a username or provide login information
+●	Voice or video - When voice isn’t enough, turn the video on! Enjoy the same HD-quality sound while having a face-to-face
+●	Secured communications and trusted contacts - All messages and calls are protected by end-to-end encryption. Manually authenticate contacts to be sure you’re talking to the right person
+●	Express yourself with stickers - Choose from a selection of thousands of stickers to say exactly what you mean
+●	“Damage control” - Delete messages you regret sending
+●	Hidden chats - Hide the chats you don’t want to be visible in your chat list and access them later with a PIN
+●	Public Chats - Follow your favorite brands and personalities and get a glimpse into their behind-the-scenes lives
+●	And much, much more - games, share contacts and location, see message information including who has seen and liked your messages
+
+Install and start connecting now!
+
+Follow Viber to see what's up:
+Viber - www.viber.com/viber 
+Facebook - http://facebook.com/viber 
+Twitter - http://twitter.com/viber
+
+(*) Viber uses your Internet connection. Wi-Fi is suggested for the best experience. Data charges may apply where you are connected through your network data plan.",
+iOS,2016-11-17,382617920,Viber,382617923,Viber Media SARL.,Version,6.5.0,6.5.1,"•NEW FEATURE: Chat with your favorite brands, businesses, bots and personalities on Public Accounts. Follow them for news and updates; subscribe to get direct messages.
+•Send photos, videos and voice messages with a tap through the new media menu."
+iOS,2016-11-30,382617920,Viber,382617923,Viber Media SARL.,Version,6.5.1,6.5.3,•NEW: Public Accounts - Chat with brands and businesses on Public Accounts. Follow them for news and updates
+iOS,2016-12-20,1,Viber,1,1,Version,Rand,6.5.5,"
+-Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send.
+-Chat Extensions  Find and share online content right from your conversation screen. Select the “@” icon, search for content and share directly from the results with a single tap. (Preview content with 3D Touch available on iPhone 6s and above only)
+-Redesigned emoticons  Our emoticons have a new, fresh look!  
+-Larger group chats  Now you can add up to 250 people to group chats."
+iOS,2016-12-22,1,Viber,1,1,Version,Rand,6.5.6,"
+-Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send.
+-Chat Extensions  Find and share online content right from your conversation screen. Select the “@” icon, search for content and share directly from the results with a single tap. (Preview content with 3D Touch available on iPhone 6s and above only)
+-Redesigned emoticons  Our emoticons have a new, fresh look!  
+-Larger group chats  Now you can add up to 250 people to group chats."
+iOS,2017-01-04,1,Viber,1,1,Version,Rand,6.5.7,"
+-Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send.
+-Chat Extensions  Find and share online content right from your conversation screen. Select the “@” icon, search for content and share directly from the results with a single tap. (Preview content with 3D Touch available on iPhone 6s and above only)
+-Redesigned emoticons  Our emoticons have a new, fresh look!  
+-Larger group chats  Now you can add up to 250 people to group chats."
+iOS,2017-02-01,1,Viber,1,1,Version,Rand,6.6.0,"●Secret messages  Set time limits on messages so they selfdestruct after they’ve been opened.  ●Send media as files  Keep photos and videos in their original size and quality when you choose to send them as files. ●Rich notifications on iOS 10  See the contents of your chats when you expand notifications on iOS 10.  ●Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send."
+iOS,2017-02-01,1,Viber,1,1,Version,Rand,6.6.0,"●Secret messages  Set time limits on messages so they selfdestruct after they’ve been opened.  ●Send media as files  Keep photos and videos in their original size and quality when you choose to send them as files. ●Rich notifications on iOS 10  See the contents of your chats when you expand notifications on iOS 10.  ●Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send."
+iOS,2017-02-05,1,Viber,1,1,Version,Rand,6.6.1,"●Secret messages  Set time limits on photos and videos so they selfdestruct after they’ve been opened.  ●Send media as files  Keep photos and videos in their original size and quality when you choose to send them as files. ●Rich notifications on iOS 10  See the contents of your chats when you expand notifications on iOS 10.  ●Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send."

@@ -1,0 +1,433 @@
+Platform,Date,App ID,App Name,Publisher ID,Publisher Name,Update Type,Previous Value,New Value,Notes
+iOS,2011-02-04,414478124,WeChat,614694882,WeChat,Version,1,1.0.1,"1、优化会话列表滚动速度，列表滑动更轻快
+2、优化网络连接，提高网络稳定性
+3、优化部分界面绘图和文字描述
+4、优化会话界面中的新消息提醒声音
+5、修正消息未读计数的错误
+6、修正拼音输入法的特殊空格与其他手机字符编码兼容问题"
+iOS,2011-03-10,414478124,WeChat,614694882,WeChat,Version,1.0.1,1.1,"1、与腾讯微博私信互通，支持和网页中的微博好友私信联系，还能在私信中发送图片
+2、支持添加好友备注，方便您识别好友
+3、支持通讯录及会话列表搜索，找人更加方便快捷
+4、好友发来的网址，支持点击打开
+5、新消息通知的好友帐号改为昵称，让您更容易知道这是谁的来信"
+iOS,2011-03-21,414478124,WeChat,614694882,WeChat,Version,1.1,1.2,"1、支持多人会话，方便您在手机上开展小群体讨论。
+2、支持通过验证工作邮箱，自动找到验证过相同域名邮箱的同事。
+3、增加黑名单功能，防止不必要的骚扰。"
+iOS,2011-04-06,414478124,WeChat,614694882,WeChat,Version,1.2,1.3,"1、优化了交互体验，可以快捷地在微信、通讯录、找朋友、设置4个选项栏目来回切换。
+2、发消息的时候，支持插入表情，为您增加了一种表达方式。
+3、增加找朋友栏目，系统将您可能认识的人推荐到这里，方便您添加他们到通讯录。
+4、强化了搜索好友功能，您可以在找朋友选项的搜索框输入微信帐号找朋友，也可以输入QQ好友昵称或者邮箱联系人名称找到他们。
+5、设置选项的“邀请朋友”增加了邀请邮箱联系人和微博好友两种方式，能让您便捷的邀请更多朋友来使用微信。"
+iOS,2011-05-10,414478124,WeChat,614694882,WeChat,Version,1.3,2,"-对讲机：可以群聊语音对讲，新潮好玩。
+-微博发图助手：用滤镜艺术化您的照片，还能一键发到腾讯微博。
+-QQ邮箱提醒：发微信提醒您QQ邮箱新来信，还能直接浏览邮件内容。"
+iOS,2011-06-08,414478124,WeChat,614694882,WeChat,Version,2,2.1,"-寻找手机通讯录好友：选择启用手机通讯录后，系统会自动帮您找到通讯录里正在使用微信的好友。 
+-增加LOMO相机滤镜：这个版本我们为您增加了拍立得、鱼眼、彩色铅笔三套滤镜。 
+-分享微信号：支持将微信号分享至腾讯微博、QQ签名、说说、新浪微博等。
+-看看谁在用：将您QQ、QQ邮箱、手机通讯录(需征得您同意)里已用上微信的好友罗列出来，让您便捷地添加他们为微信好友。
+-隐私设置：允许设置“是否将我推荐给QQ好友”及“是否允许别人通过QQ号搜索到我”。"
+iOS,2011-06-30,414478124,WeChat,614694882,WeChat,Version,2.1,2.2,"-QQ离线消息：当您的QQ处于离线状态时，微信帮您接收QQ消息，还可以回复喔。让您时刻继续保持和QQ好友联系。 
+-好友推荐消息：向您推荐QQ好友和手机通讯录好友，还向您提醒好友验证请求。
+-好友验证：当您打开了好友验证设置后，任何人添加您为好友，都必须先向您发送好友验证请求，避免不必要的骚扰。"
+iOS,2011-08-03,414478124,WeChat,614694882,WeChat,Version,2.2,2.5,"-视频功能：支持视频即拍即发，经过压缩处理，即使在移动网络也适合传输，让您随时分享精彩的生活片段。
+-查看附近的人：微信将会根据您的地理位置找到在您附近同样开启本功能的人，使您轻松找到身边正在使用微信的他们。
+-语音记事本：可以进行语音速记，还支持视频、图片、文字记事，让记录备忘也变得便捷有趣。
+-群名备注：支持修改群名字，让您更容易识别不同的群。
+-手机号注册：支持通过手机号注册微信。
+-个性签名：可以为自己编辑个性签名，让好友看到最特别的自己。
+-系统通知：为您介绍新版本的功能特性及教程，呈现微信更新动态。"
+iOS,2011-08-17,414478124,WeChat,614694882,WeChat,Version,2.5,2.5.1,"- 进一步强化使用“查看附近的人”功能的隐私保护。
+- 优化用户体验，操作更方便。
+- 修复BUG，系统运行更稳定。"
+iOS,2011-08-30,414478124,WeChat,614694882,WeChat,Version,2.5.1,2.5.2,优化网络策略，提高网络稳定性，解决部分用户网络连接不上的问题。
+iOS,2011-09-13,414478124,WeChat,614694882,WeChat,Version,2.5.2,2.5.3,进一步优化网络，解决部分用户无法连接网络的问题，同时大幅提升消息收发速度，运行微信更加流畅。
+iOS,2011-10-01,414478124,WeChat,614694882,WeChat,Version,2.5.3,3,"-摇一摇:支持通过摇一摇手机找到同时也在摇手机的朋友。
+-漂流瓶:支持扔漂流瓶匿名交友。
+-通讯录安全助手:可以帮您备份通讯录到云端，您可以随时恢复手机联系人到手机。
+-支持查看好友的大头像。
+-支持繁体中文语言界面。
+-增加港、澳、台、美、日五个地区的用户绑定手机号。
+-增加插件免打扰功能，设置免打扰后，不再提醒系统插件发来的消息。
+-增加保存群组到通讯录功能，可以把一个群聊里的所有联系人保存成一个联系人，方便与这些人发起消息对话。
+-可让您自由设置是否回复陌生人发来的消息后，就自动添加这个人为好友。
+-系统插件可装卸、安装。还能让您自由设置是否显示到通讯录里，让您灵活管理满足不同需求的插件。
+-优化登录，注册界面。优化用户体验，调整界面排版及设计。"
+iOS,2011-10-17,414478124,WeChat,614694882,WeChat,Version,3,3.0.1,"1、减小安装包容量，下载安装更顺畅。
+2、修复部分用户因升级后闪退的问题。
+3、修复Bug。
+4、优化用户体验。"
+iOS,2011-10-27,414478124,WeChat,614694882,WeChat,Version,3.0.1,3.1,"- English language support
+- Synchronize voice notes to QQ Mail
+- Support switching to handset mode
+- Better user experience: smooth input controls"
+iOS,2011-12-20,414478124,WeChat,614694882,WeChat,Version,3.1,3.5,"- Show your QR Code on Facebook, and your friends will say hi to you
+- Support dynamic emoticons on transparent backgrounds, emoji, and custom emoticons
+- SMS registration is now supported in over a hundred of regions
+- Play Rock-Paper-Scissors game while chatting at the same time
+- Set customized background image in chat sessions"
+iOS,2012-04-19,414478124,WeChat,614694882,WeChat,Version,3.5,4.0.0.9,"- Simple Facebook Connect log-in
+- Create a streaming photo journal of your day's highlights and personal interests.
+- Easily share captioned photos with your circle of friends, to ‘like’ and comment on them.
+- Forward photos and videos to your friends
+- Broadcast messages to multiple recipients
+- Highlight best friends in your contact list with a star!
+- Relay your current location to a friend to make meeting up easier.
+- Multiple language support including: Thai, Vietnamese, Indonesian, and Portuguese
+- Font size customization
+"
+iOS,2012-04-19,414478124,WeChat,614694882,WeChat,Name,微信,WeChat!,
+iOS,2012-04-28,414478124,WeChat,614694882,WeChat,Version,4.0.0.9,4.0.1.0,"- Fixed the problem of not being able to choose photos from phone album in conversations.
+- Fixed the problem of not being able to switch between front and back facing camera. "
+iOS,2012-07-19,414478124,WeChat,614694882,WeChat,Version,4.0.1.0,4.2.0.7,"- Video calls in HD
+- Web WeChat: chat on WeChat from your PC through the browser
+- Selective sharing of Moments using Visibility and custom-defined groups
+- Reply directly to a friend’s comment in Moments using @
+- Support for Blue-tooth headsets
+"
+iOS,2012-07-19,414478124,WeChat,614694882,WeChat,Name,WeChat!,WeChat,
+iOS,2012-09-05,414478124,WeChat,614694882,WeChat,Version,4.2.0.7,4.3.0.3,"- Introduced Web Grab, a new feature allowing you to pull images straight from your computer browser to your phone. (Visit http://wechatapp.com/shake to learn more)
+- Fixed a bug where Facebook unlinking didn't work. You can now also unlink your phone number and can set/edit your WeChat login password from My Account.
+- Download special emoticons and save emoticons sent by your friends.
+- Sync your Moments photos to Twitter.
+- Download photos from your Facebook albums and share them on WeChat Moments.
+- Stick favorite conversations on top of the Chat list.
+- Slide to view all images in a conversation.
+- Add people to Moments Blocked List if you don't want to see their Moments updates. You can also now switch Private photos to Public.
+"
+iOS,2012-09-25,414478124,WeChat,614694882,WeChat,Version,4.3.0.3,4.3.1.1,"- Fixed the issue where users could not change the chat background image.
+- Improved the quality of uploaded profile photos."
+iOS,2012-10-29,414478124,WeChat,614694882,WeChat,Version,4.3.1.1,4.3.2.6,"- Now fully compatible with iPhone 5
+- Fixed some iOS 6-specific bugs
+"
+iOS,2013-01-04,414478124,WeChat,614694882,WeChat,Version,4.3.2.6,4.3.3.4,"- Fixed the issue causing WeChat to crash when the user would send emoticons.
+- Fixed the issue of not being able to view mobile contacts.
+- Improved Moments sharing and account privacy settings."
+iOS,2013-01-05,414478124,WeChat,614694882,WeChat,Version,4.3.3.4,4.3.3.6,"- Fixed the issue causing WeChat to crash when the user would send emoticons. 
+- Fixed the issue of not being able to view mobile contacts. 
+- Improved Moments sharing and account privacy settings."
+iOS,2013-02-05,414478124,WeChat,614694882,WeChat,Version,4.3.3.6,4.5.0.9,"• Live Chat: group voice in real time.
+• Invite people into a group chat via QR code.
+• Search your chat history from inside a chat.
+• Back up and restore your WeChat chat history.
+"
+iOS,2013-04-01,414478124,WeChat,614694882,WeChat,Version,4.5.0.9,4.5.0.11,"• Live Chat: group voice in real time. 
+• Invite people into a group chat via QR code. 
+• Search your chat history from inside a chat. 
+• Back up and restore your WeChat chat history"
+iOS,2013-04-16,414478124,WeChat,614694882,WeChat,Version,4.5.0.11,4.5.0.54,"• Live Chat: group voice in real time. 
+• Invite people into a group chat via QR code. 
+• Search your chat history from inside a chat. 
+• Back up and restore your WeChat chat history"
+iOS,2013-08-05,414478124,WeChat,614694882,WeChat,Version,4.5.0.54,5.0.0.16,"-Save favorite content clippings from chats or Moments.
+-Download loads of new animated stickers from the Sticker Shop.
+-Add friends nearby easily with the new Hold Together function."
+iOS,2013-08-05,414478124,WeChat,614694882,WeChat,Icon,https://static-s.aa-cdn.net/img/ios/414478124/c230e635bf801aa4f6832fc015ec5387,https://static-s.aa-cdn.net/img/ios/414478124/4c8fc0a0acc6ad3aeed7da8a2de2c0c7,
+iOS,2013-08-28,414478124,WeChat,614694882,WeChat,Version,5.0.0.16,5.0.1.0,"- Improved the image transfer speeds
+ - Added new emoticons for chats
+- Additional bug fixes"
+iOS,2013-10-24,414478124,WeChat,614694882,WeChat,Version,5.0.1.0,5.0.3.17,"- Fully compatible with iOS 7
+- Sign up via Email
+- Make Voice Call to WeChat friends
+- New button menu for WeChat Team
+- Manually clean WeChat files to save space
+- Export chat history via Email
+- Edit and send Favorite Messages to friends"
+iOS,2013-12-20,414478124,WeChat,614694882,WeChat,Version,5.0.3.17,5.1.0.6,"- Introducing WeChat Games! Share achievements and compete with WeChat friends
+- Create group chats with up to 100 members
+- Press sticker to preview animation before purchasing
+- View message drafts"
+iOS,2014-01-26,414478124,WeChat,614694882,WeChat,Version,5.1.0.6,5.2.0.17,"- Real-time location sharing with walkie talkie
+- Universal search including chat history search
+- Receive a special notification if you're mentioned in a group chat
+- Share sticker sets with friends
+- Better image browsing in chats
+- Calls connect more reliably and video and audio quality is improved"
+iOS,2014-02-28,414478124,WeChat,614694882,WeChat,Version,5.2.0.17,5.2.0.19,Video call bugs fixed
+iOS,2014-03-21,414478124,WeChat,614694882,WeChat,Version,5.2.0.19,5.2.1.17,"1. Make free calls to any contact from their profile page
+2. Click the top right ""+"" to quickly snap and send a photo to your friends
+3. Chat history search results improved"
+iOS,2014-05-08,414478124,WeChat,614694882,WeChat,Version,5.2.1.17,5.3.0.16,"-Input the required digits to create a group with friends nearby
+-Add tags to favorite messages for quick searches
+-Select multiple messages and add them to Favorites
+-Long press a message to translate it"
+iOS,2014-05-15,414478124,WeChat,614694882,WeChat,Version,5.3.0.16,5.3.0.17,"-Input the required digits to create a group with friends nearby 
+-Add tags to favorite messages for quick searches 
+-Select multiple messages and add them to Favorites 
+-Long press a message to translate it"
+iOS,2014-05-27,414478124,WeChat,614694882,WeChat,Version,5.3.0.17,5.3.0.19,"-Input the required digits to create a group with friends nearby 
+-Add tags to favorite messages for quick searches 
+-Select multiple messages and add them to Favorites 
+-Long press a message to translate it"
+iOS,2014-06-23,414478124,WeChat,614694882,WeChat,Version,5.3.0.19,5.3.1.16,"New Feature
+- Add tags to your contacts for easier management
+- Recall the last message you send within two minutes
+- Download received images automatically on Wi-Fi"
+iOS,2014-07-09,414478124,WeChat,614694882,WeChat,Version,5.3.1.16,5.3.1.17,"New Feature 
+- Add tags to your contacts for easier management 
+- Recall the last message you send within two minutes 
+- Download received images automatically on Wi-Fi"
+iOS,2014-08-14,414478124,WeChat,614694882,WeChat,Version,5.3.1.17,5.4.0.16,"1. Quickly find messages with the new improved search function
+2. Quickly search for contacts via a contact tag entry in Contacts
+3. Switch to the first unread message in Chats with one tap
+"
+iOS,2014-09-15,414478124,WeChat,614694882,WeChat,Version,5.4.0.16,5.4.1,"1. Quickly find messages with the new improved search function
+2. Quickly search for contacts via a contact tag entry in Contacts
+3. Switch to the first unread message in Chats with one tap
+4. Optimized for iPad including text size options and improved compatability"
+iOS,2014-09-21,414478124,WeChat,614694882,WeChat,Version,5.4.1,5.4.2,"1. Quickly find messages with the new improved search function
+2. Quickly search for contacts via a contact tag entry in Contacts
+3. Switch to the first unread message in Chats with one tap
+4. Optimized for iPad including text size options and improved compatability
+5. iOS 8 bug fix"
+iOS,2014-09-30,414478124,WeChat,614694882,WeChat,Version,5.4.2,6.0.0,"- Sight: A new, fun way to capture a short video
+  1. Share a Sight to chats or Moments
+  2. Capture a Sight quickly by sliding down the Chats screen"
+iOS,2014-11-06,414478124,WeChat,614694882,WeChat,Version,6.0.0,6.0.1,"- Improved compatibility with iPhone 6 and iPhone 6 Plus
+- Minor bug fixes"
+iOS,2014-12-20,414478124,WeChat,614694882,WeChat,Version,6.0.1,6.0.2,"- New ""Light Boost"" helps you shoot Sight videos at night
+- Change text size globally
+- Supports sharing content  to WeChat from iOS 8 users' Camera Roll or from Safari
+- View how much storage space WeChat is using and free up space quickly
+- Minimize video/voice calls to allow you to use other features while calling"
+iOS,2015-01-19,414478124,WeChat,614694882,WeChat,Version,6.0.2,6.1,"What's New in WeChat v6.1
+- Sync customized stickers automatically when you log in to a new device"
+iOS,2015-02-09,414478124,WeChat,614694882,WeChat,Version,6.1,6.1.1,"What’s New in WeChat v6.1.1
+- Sync customized stickers automatically when you log in to a new device
+- Connect to the bluetooth device and view the relevant data in the official account.
+- Minor bug fixes"
+iOS,2015-03-25,414478124,WeChat,614694882,WeChat,Version,6.1.1,6.1.2,"What’s New in WeChat v6.1.2
+- Sync customized stickers automatically when you log in to a new device
+- Connect a supported Bluetooth device and view device data within its Official Account
+- Minor bug fixes"
+iOS,2015-03-27,414478124,WeChat,614694882,WeChat,Version,6.1.2,6.1.3,"WeChat is now available on Apple Watch
+1. Messaging: Read and reply with text or stickers on Apple Watch.
+2. Moments: Get up-to-date with your friends on Apple Watch.
+3. Friend Radar: Make new friends without using your phone on Apple Watch."
+iOS,2015-03-30,414478124,WeChat,614694882,WeChat,Version,6.1.3,6.1.4,"WeChat is now available on Apple Watch
+1. Messaging: Read and reply with text or stickers on Apple Watch.
+2. Moments: Get up-to-date with your friends on Apple Watch.
+3. Friend Radar: Make new friends without using your phone on Apple Watch."
+iOS,2015-04-27,414478124,WeChat,614694882,WeChat,Version,6.1.4,6.1.5,"1. New Tuzki 2 sticker pack for Apple Watch. 
+2. Support for more languages."
+iOS,2015-05-25,414478124,WeChat,614694882,WeChat,Version,6.1.5,6.2.0,"- Easily migrate chat log from original phone to new device
+- Send images to friends in chats more quickly
+- Translate Moments into your language with a long press 
+- Improved WeChat experience on Apple Watch 
+- Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account"
+iOS,2015-06-17,414478124,WeChat,614694882,WeChat,Version,6.2.0,6.2.2,"· Easily migrate chat log from original phone to new device
+· Send images to friends in chats more quickly
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing
+· Improved stability with additional 64-bit compatibility"
+iOS,2015-07-11,414478124,WeChat,614694882,WeChat,Version,6.2.2,6.2.3,"· Easily migrate chat log from original phone to new device
+· Send images to friends in chats more quickly
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing
+· Improved stability with additional 64-bit compatibility"
+iOS,2015-08-04,414478124,WeChat,614694882,WeChat,Version,6.2.3,6.2.4,"· Easily migrate chat log from original phone to new device
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing"
+iOS,2015-08-04,414478124,WeChat,614694882,WeChat,Icon,https://static-s.aa-cdn.net/img/ios/414478124/cdc211fb9666a844af308ced9d2a24ae,https://static-s.aa-cdn.net/img/ios/414478124/33d386b08e75cfed45d0a7668e7b032f,
+iOS,2015-09-10,414478124,WeChat,614694882,WeChat,Version,6.2.4,6.2.5,"· Easily migrate chat log from original phone to new device
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing"
+iOS,2015-09-12,414478124,WeChat,614694882,WeChat,Version,6.2.5,6.2.6,"· Easily migrate chat log from original phone to new device
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing"
+iOS,2015-09-25,414478124,WeChat,614694882,WeChat,Version,6.2.6,6.2.7,"Latest Updates
+· Added 3D Touch for iPhone 6s or 6s Plus users
+
+Recent Updates
+· Easily migrate chat log from original phone to new device
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing
+· Security issue caused by external malware affecting v6.2.5 was fixed in v6.2.6 and above"
+iOS,2015-10-01,414478124,WeChat,614694882,WeChat,Version,6.2.7,6.3.1,"Latest Updates
+· Fixed bug resulting in interface language change for some users when upgrading to iOS 9
+· Improved messaging feature for using WeChat in Apple Watch
+
+Recent Updates
+· Added 3D Touch for iPhone 6s or 6s Plus users
+· Easily migrate chat log from original phone to new device
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun-WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing
+· Security issue caused by external malware affecting v6.2.5 was fixed in v6.2.6 and above"
+iOS,2015-10-20,414478124,WeChat,614694882,WeChat,Version,6.3.1,6.3.5,"Latest Updates
+· Video or voice calls with multiple friends in a group chat
+· Group owners can now create and edit a group notice for group members
+· Group owner can transfer ownership to other members
+· View step count trend and add followees in WeRun
+
+Recent Updates
+· Fixed bug resulting in interface language change for some users when upgrading to iOS 9
+· Improved messaging feature for using WeChat in Apple Watch
+· Added 3D Touch for iPhone 6s or 6s Plus users
+· Easily migrate chat log from original phone to new device
+· Translate Moments into your language with a long press 
+· Improved WeChat experience on Apple Watch 
+· Access HealthKit data and challenge friends to beat their scores via the ""WeRun·WeChat"" Official Account
+· Added progress bar for video downloads in chats and video playback scrubbing
+· Security issue caused by external malware affecting v6.2.5 was fixed in v6.2.6 and above"
+iOS,2015-10-29,414478124,WeChat,614694882,WeChat,Version,6.3.5,6.3.6,"Latest Updates
+· Bug fixes and minor improvements to features
+
+Recent Updates
+· Video or voice calls with multiple friends in a group chat
+· Group owners can now create and edit a group notice for group members
+· Group owner can transfer ownership to other members
+· View step count trend and add followees in WeRun"
+iOS,2015-11-24,414478124,WeChat,614694882,WeChat,Version,6.3.6,6.3.7,"Latest Updates
+· Sticker Store now supports single stickers from artists
+· Share content from Photos and Safari to WeChat on iOS 8 or later
+
+Recent Updates
+· Video or voice calls with multiple friends in a group chat
+· Group owners can now create and edit a group notice for group members
+· Group owner can transfer ownership to other members
+· View step count trend and add followees in WeRun"
+iOS,2015-12-11,414478124,WeChat,614694882,WeChat,Version,6.3.7,6.3.8,"Latest Updates
+· The ""Chat Images"" screen now also surfaces files and links.
+· Support for Multitasking on iPad. 
+· Quickly send and receive payments via the '+' menu.
+· Individual stickers from sticker packs can be added to Custom Stickers without having to download the entire set.
+
+Recent Updates
+· Sticker Store now supports single stickers from artists
+· Share content from Photos and Safari to WeChat on iOS 8 or later"
+iOS,2015-12-29,414478124,WeChat,614694882,WeChat,Version,6.3.8,6.3.9,"Latest Updates
+
+Apple Watch WeChat 
+
+Completely rewritten for watchOS 2. Over 150％ increase in performance plus battery life improvements.
+
+* Moments Watch
+See what your friends are up to simply by raising your wrist.
+
+* Signal Messages
+Tap on a friend’s avatar to send a Signal. 
+
+* Voice Messaging
+Send voice messages directly from your watch. 
+
+* Watch Contacts
+Select people you talk to most frequently on watch.
+
+
+Recent Updates
+* The ""Chat Images"" screen now also surfaces files and links.
+* Support for Multitasking on iPad. 
+* Quickly send and receive payments via the '+' menu.
+* Individual stickers from sticker packs can be added to Custom Stickers without having to download the entire set."
+iOS,2016-01-27,414478124,WeChat,614694882,WeChat,Version,6.3.9,6.3.10,"WeChat for Apple Watch
+* Red Envolopes: You can now see red envelope notifications, and even open them directly from your watch.
+* Signal for Groups: Now you can signal Watch Contact group members.
+* Moments Watchface: We have made navigation and speed improvements.
+* WeChat for Apple Watch requires watchOS 2."
+iOS,2016-02-01,414478124,WeChat,614694882,WeChat,Version,6.3.10,6.3.13,"Latest Updates:
+- Forward more than one chat transcript to multiple people
+- Preview webpages on iPhone 6s/6s Plus via 3D Touch
+
+Recent Updates:
+- Receive red packets on Apple Watch
+- Added Moments Watch Cover, Signal, voice message and Watch contacts
+- View chat files and links in Chat Files
+- Pay vendors quickly from the ""+"" menu on main screen
+- Add a single sticker from a sticker set to your custom stickers list"
+iOS,2016-03-21,414478124,WeChat,614694882,WeChat,Version,6.3.13,6.3.15,"Latest Updates:
+- Search chat transcript by members or by date within a group chat
+- Keep track of your daily, weekly and monthly steps ranking in WeRun
+
+Recent Updates:
+- Forward more than one chat transcript to multiple people
+- Preview webpages on iPhone 6s/6s Plus via 3D Touch"
+iOS,2016-04-20,414478124,WeChat,614694882,WeChat,Version,6.3.15,6.3.16,"Latest Updates
+- Tagged contacts are viewable in alphabetical order .
+- Support for sharing from Apple Music and iTunes to WeChat .
+Recent Updates
+- Search chat transcript by members or by date within a group chat .
+- Keep track of your daily, weekly and monthly steps ranking in WeRun ."
+iOS,2016-06-06,414478124,WeChat,614694882,WeChat,Version,6.3.16,6.3.19,"Latest Updates
+- WeChat Out: Call mobiles and landlines worldwide at the lowest rates (available in limited regions).
+
+Recent Updates
+- Tagged contacts are viewable in alphabetical order."
+iOS,2016-06-20,414478124,WeChat,614694882,WeChat,Version,6.3.19,6.3.21,"Latest Updates
+- WeChat Out: Call mobiles and landlines worldwide at the lowest rates (available in limited regions).
+
+Recent Updates
+- Tagged contacts are viewable in alphabetical order"
+iOS,2016-06-27,414478124,WeChat,614694882,WeChat,Version,6.3.21,6.3.22,"Latest Updates
+- Create a share list by selecting untagged contacts when posting Moments
+
+Recent Updates
+- Tagged contacts are viewable in alphabetical order"
+iOS,2016-08-01,414478124,WeChat,614694882,WeChat,Version,6.3.22,6.3.23,"Latest Updates:
+- View group members when forwarding messages to a group.
+
+Recent Updates:
+- Create a share list by selecting untagged contacts when posting Moments."
+iOS,2016-08-13,414478124,WeChat,614694882,WeChat,Screenshot,'https://static-s.aa-cdn.net/img/ios/414478124/0651a969f003dde00ecf9efa8efb411d' 'https://static-s.aa-cdn.net/img/ios/414478124/627c4a4c05198249cf09695b8e24f14d' 'https://static-s.aa-cdn.net/img/ios/414478124/ec4c8a527b0a5494475dbc2224d8099f' 'https://static-s.aa-cdn.net/img/ios/414478124/9aa2584ba700bcea5ca1444966b536fa' 'https://static-s.aa-cdn.net/img/ios/414478124/eb4ace3d7238e3008dc9f1ad459d71ce','https://static-s.aa-cdn.net/img/ios/414478124/0837e80f25f70f568ab4f6e0cf8fed05' 'https://static-s.aa-cdn.net/img/ios/414478124/eab87e643e30a58ef863eb17060ae329' 'https://static-s.aa-cdn.net/img/ios/414478124/1779e35dfdf109b405c6420f7c705da0' 'https://static-s.aa-cdn.net/img/ios/414478124/4a032841777ebff38f02175a6092c914' 'https://static-s.aa-cdn.net/img/ios/414478124/5f9f3c228261364a61722ae5dd39efbf',iPhone
+iOS,2016-08-29,414478124,WeChat,614694882,WeChat,Version,6.3.23,6.3.24,"Latest Updates:
+- Sticky frequently used stickers at the top of custom sticker screen
+
+Recent Updates:
+- View group members when forwarding messages to a group.
+- Create a share list by selecting untagged contacts when posting Moments"
+iOS,2016-09-05,414478124,WeChat,614694882,WeChat,Version,6.3.24,6.3.25,"Latest Updates:
+- Sticky frequently used stickers at the top of custom sticker screen.
+
+Recent Updates:
+- View group members when forwarding messages to a group.
+- Create a share list by selecting untagged contacts when posting Moments"
+iOS,2016-09-23,414478124,WeChat,614694882,WeChat,Version,6.3.25,6.3.27,"Latest Updates:
+- Fixed iOS 10 system-related issues
+
+Recent Updates:
+- Send animated GIFs in chats"
+iOS,2016-10-25,414478124,WeChat,614694882,WeChat,Version,6.3.27,6.3.28,"Latest Updates:
+- Group owner can verify members' invitation before they invite their friends to join the group.
+- Added Go Dutch to group chats allowing you to split bills quickly with your friends.
+
+Recent Updates:
+- Send animated GIFs in chats
+- Fixed iOS 10 system-related issues"
+iOS,2016-10-29,414478124,WeChat,614694882,WeChat,Version,6.3.28,6.3.29,"Latest Updates:
+- Group owner can verify members' invitation before they invite their friends to join the group.
+- Added Go Dutch to group chats allowing you to split bills quickly with your friends.
+- Search Moments by a specified friend and time period.
+- Search articles from followed or specified Official Accounts.
+
+Recent Updates:
+- Send animated GIFs in chats
+- Fixed iOS 10 system-related issues"
+iOS,2016-11-03,414478124,WeChat,614694882,WeChat,Version,6.3.29,6.3.30,"Latest Updates:
+- Minor bug fixes.
+
+Recent Updates:
+- Group owner can verify members' invitation before they invite their friends to join the group.
+- Added Go Dutch to group chats allowing you to split bills quickly with your friends.
+- Send animated GIFs in chats."
+iOS,2016-11-17,414478124,WeChat,614694882,WeChat,Version,6.3.30,6.3.31,"Latest Updates:
+- Minor bug fixes.
+
+Recent Updates:
+- Group owner can verify members' invitation before they invite their friends to join the group.
+- Added Go Dutch to group chats allowing you to split bills quickly with your friends.
+- Send animated GIFs in chats."
+iOS,2016-12-20,1,WeChat,1,1,Version,Rand,6.5.2,Latest Updates: Edit and annotate photos before sending them to friends Watch Complication. See WeChat unread messages directly from the Modular Watch Face. Apple Watch WeChat. Designed for watchOS 3 from the ground up with up to 200% increase in performance.Recent Updates: Share videos from album to Moments or chats
+iOS,2017-01-03,1,WeChat,1,1,Version,Rand,6.5.3,Latest Updates: Minor bug fixes.Recent Updates: Edit and annotate photos before sending them to friends. Watch Complication. See WeChat unread messages directly from the Modular Watch Face. Apple Watch WeChat. Designed for watchOS 3 from the ground up with up to 200% increase in performance.
+iOS,2017-01-23,1,WeChat,1,1,Version,Rand,6.5.4,Latest Updates: Improved voice input for faster and more accurate speech recognition (supports Chinese) Sticky articles yore reading to the top of Chats Search content in an article yore browsingRecent Updates: Edit and annotate photos before sending them to friends. Share videos from album to Moments or chats
