@@ -3,25 +3,32 @@ change_logs:
   # and the place where their data is stored locally.
   dir: data/ggplay/version-logs/
   database_name: database.csv
-  range_of_query: 1
+  range_of_query: 30
+  # each app has 3 fields: version logs src, version no src and database src.
   apps_src_dest:
     Zalo: 
-      - https://play.google.com/store/apps/details?id=com.zing.zalo
-      - App_Annie_Store_Stats_TimeLine_iOS_Zalo.csv
+      - https://play.google.com/store/apps/details?id=com.zing.zalo&hl=en
+      - https://www.apptweak.com/applications/android/com.zing.zalo?country=vn
+      - App_Annie_Store_Stats_TimeLine_Google Play_Zalo.csv
     Messenger: 
-      - https://play.google.com/store/apps/details?id=com.facebook.orca
-      - App_Annie_Store_Stats_TimeLine_iOS_Messenger.csv
+      - https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en
+      - https://www.apptweak.com/applications/android/com.facebook.orca?country=vn
+      - App_Annie_Store_Stats_TimeLine_Google Play_Messenger.csv
     Viber:
-      - https://play.google.com/store/apps/details?id=com.viber.voip
-      - App_Annie_Store_Stats_TimeLine_iOS_Viber.csv
+      - https://play.google.com/store/apps/details?id=com.viber.voip&hl=en
+      - https://www.apptweak.com/applications/android/com.viber.voip?country=vn
+      - App_Annie_Store_Stats_TimeLine_Google Play_Viber.csv
     BIGO:      
-      - https://play.google.com/store/apps/details?id=sg.bigo.live
-      - App_Annie_Store_Stats_TimeLine_iOS_BIGO LIVE - Live Broadcasting.csv
+      - https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en
+      - https://www.apptweak.com/applications/android/sg.bigo.live?country=vn
+      - App_Annie_Store_Stats_TimeLine_Google Play_BIGO LIVE - Live Broadcasting.csv
     WeChat:
-      - https://play.google.com/store/apps/details?id=com.tencent.mm
-      - App_Annie_Store_Stats_TimeLine_iOS_WeChat.csv
+      - https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en
+      - https://www.apptweak.com/applications/android/com.tencent.mm?country=vn
+      - App_Annie_Store_Stats_TimeLine_Google Play_WeChat.csv
     Mocha:
-      - https://play.google.com/store/apps/details?id=com.viettel.mocha.app
+      - https://play.google.com/store/apps/details?id=com.viettel.mocha.app&hl=en
+      - https://www.apptweak.com/applications/android/com.viettel.mocha.app?country=vn
       - App_Annie_Store_Stats_TimeLine_Google Play_Mocha%3A Free SMS.csv
 rank:
   dir: data/ggplay/
@@ -30,6 +37,7 @@ rank:
   # List of tracked apps' title from source domain
   # Sample: "https://www.apptweak.com/top-apps/android/vn/ALL"
   src_domain: "https://www.apptweak.com/top-apps/android/vn/ALL"
+  # The app name in applist must be as same as it is on apptweak Android ranking table. Viber is a special case since it changes its title very often.
   apps_list:
     - Zalo
     - Messenger

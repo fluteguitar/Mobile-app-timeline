@@ -1,0 +1,108 @@
+Platform,Date,App ID,App Name,Publisher ID,Publisher Name,Update Type,Previous Value,New Value,Notes
+Google Play,2012-07-30,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.1.4,0.1.5,
+Google Play,2012-07-31,com.zing.zalo,Zalo,20200001830257,Zalo Group,Icon,https://static-s.aa-cdn.net/img/gp/20600000397478/ZNmKWV0qTpVEDSsv8SnHUQl16OzlMi-2OHmEhVyIbeq-uvxxMy7qByrnA6hXO3fY-2A=w124,https://static-s.aa-cdn.net/img/gp/20600000397478/NjhTfuy0fh-6eenxTN6pRQMbk4NMZkHkGI2l_6Ia1vCHqqVbeZVFquIiNihMXsLYkg=w124,
+Google Play,2012-08-02,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.1.5,0.1.6,
+Google Play,2012-08-08,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.1.6,0.1.7,
+Google Play,2012-08-10,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.1.7,0.1.8,
+Google Play,2012-08-20,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.1.8,0.1.9,
+Google Play,2012-09-01,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.1.9,0.2.0,
+Google Play,2012-09-14,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.2.0,0.2.1,
+Google Play,2012-09-29,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.2.1,0.2.2,
+Google Play,2012-11-08,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,0.2.2,1.0.0,
+Google Play,2012-11-09,com.zing.zalo,Zalo,20200001830257,Zalo Group,Name,Zalo,Zalo - Nhắn tin kiểu mới,
+Google Play,2012-11-14,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.0,1.0.1,
+Google Play,2012-11-18,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.1,1.0.2,
+Google Play,2012-12-07,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.2,1.0.3,
+Google Play,2012-12-21,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.3,1.0.4,
+Google Play,2013-01-05,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.4,1.0.5,
+Google Play,2013-01-31,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.5,1.0.6,
+Google Play,2013-02-08,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.6,1.0.7,
+Google Play,2013-03-14,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.7,1.0.8,
+Google Play,2013-03-31,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.8,1.0.9,
+Google Play,2013-04-07,com.zing.zalo,Zalo,20200001830257,Zalo Group,Name,Zalo - Nhắn tin kiểu mới,Zalo - Nhắn gửi yêu thương,
+Google Play,2013-04-19,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.0.9,1.1.0,
+Google Play,2013-04-27,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.0,1.1.1,
+Google Play,2013-05-24,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.1,1.1.2,
+Google Play,2013-06-08,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.2,1.1.3,
+Google Play,2013-07-02,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.3,1.1.4,
+Google Play,2013-08-09,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.4,1.1.5,
+Google Play,2013-08-16,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.5,1.1.6,
+Google Play,2013-09-06,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.6,1.1.7,
+Google Play,2013-09-14,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.7,1.1.8,
+Google Play,2013-10-01,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.8,1.1.9,
+Google Play,2013-10-02,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.1.9,1.2.0,
+Google Play,2013-10-14,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.2.0,1.2.1,
+Google Play,2013-11-05,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.2.1,1.2.2,
+Google Play,2013-11-28,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.2.2,1.2.3,
+Google Play,2013-11-29,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.2.3,1.2.4,
+Google Play,2014-04-17,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,1.2.4,2.0.0,
+Google Play,2014-06-11,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.0,2.0.1,
+Google Play,2014-06-25,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.1,2.0.2,
+Google Play,2014-08-26,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.2,2.0.3,
+Google Play,2014-10-08,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.3,2.0.4,
+Google Play,2014-12-14,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.4,2.0.5,
+Google Play,2015-01-18,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.5,2.0.6,
+Google Play,2015-02-11,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.6,2.0.7,
+Google Play,2015-04-24,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.7,2.0.8,"Bản cập nhật 23/04/2015:
+- Nâng cấp tốc độ.
+- Sửa một số lỗi."
+Google Play,2015-07-15,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2.0.8,Varies with device,
+Google Play,2016-02-29,com.zing.zalo,Zalo,20200001830257,Zalo Group,Name,Zalo - Nhắn gửi yêu thương,Zalo,
+Google Play,2016-05-04,com.zing.zalo,Zalo,20200001830257,Zalo Group,Publisher,VNG.Online,Zalo Group,
+Google Play,2016-07-25,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,Varies with device,2016.06.18,"- Improve Group Chat
+- Support Official Account"
+Google Play,2016-07-28,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.06.18,2016.07.27,"- Improve Group Chat
+- Support Official Account"
+Google Play,2016-07-29,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.07.27,2016.07.29,- Search GIF by typing @. Example: @GIF.
+Google Play,2016-08-22,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.07.29,2016.08.21,- Search GIF by typing @. Example: @GIF.
+Google Play,2016-08-23,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.08.21,2016.08.23,- Search GIF by typing @. Example: @GIF.
+Google Play,2016-08-25,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.08.23,2016.08.25,"- Add suggestions for GIF searching using @
+- Improve group management, group avatar support, etc"
+Google Play,2016-09-09,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.08.25,2016.09.09,"- Add suggestions for GIF, MP3 searching using @
+- Improve group management, group avatar support, etc"
+Google Play,2016-09-11,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.09.09,2016.09.11,"- Add Shared media to groups, where you can find shared photos, links and documents
+- Add emoji support when naming group
+- More @GIF improvements"
+Google Play,2016-09-29,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.09.11,2016.09.28,"- Search for messages and find friend via phone number right from the main tabs
+- Add Shared media to groups, where you can find shared photos, links and documents
+- Add emoji support when naming group
+- More @GIF improvements"
+Google Play,2016-10-06,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.09.28,2016.10.06,"- Add support for phone number, messages, and Official Accounts in Global Search
+- Improve GIF and MP3 search via @
+- Add Hidden Chat feature (long press on any conversation), secret photo chat (swipe up from the chat text box). The latter only works for conversations between 2 latest version Android users
+Thanks for joining us on our incredible journey!"
+Google Play,2016-10-17,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.10.06,2016.10.15,"- Add support for phone number, messages, and Official Accounts in Global Search
+- Improve GIF and MP3 search via @
+- Add Hidden Chat feature (long press on any conversation), secret photo chat (swipe up from the chat text box). The latter only works for conversations between 2 latest version Android users
+Thanks for joining us on our incredible journey!"
+Google Play,2016-10-17,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.10.15,2016.10.16,"- Video call (beta) with family and friends using the same latest Android version
+- Live video in group chat (get started by tapping on the second button to the top right of your conversation)
+- Story sharing on timeline. These photo and video stories can only be viewed in 24h
+All the best on your Zalo experience!"
+Google Play,2016-10-28,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.10.16,2016.10.27,"- Video call (beta) with family and friends using the same latest Android version
+- Live video in group chat (get started by tapping on the second button to the top right of your conversation)
+- Story sharing on timeline. These photo and video stories can only be viewed in 24h
+All the best on your Zalo experience!"
+Google Play,2016-10-30,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.10.27,2016.10.29,- Bug fixes and improvements for video call
+Google Play,2016-12-07,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.10.29,2016.12.06,- Bug fixes and improvements for video call
+Google Play,2016-12-09,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.12.06,2016.12.08,"- New chat theme for both your friend and you
+- Camera improvements with faster photo capture and easier editing
+- New file sending feature
+- Tap and hold Send button to adjust text size in conversations
+Enjoy new features!"
+Google Play,2016-12-09,com.zing.zalo,Zalo,20200001830257,Zalo Group,Screenshot,'https://static-s.aa-cdn.net/img/gp/20600000397478/HYzAhXVmvbcvHjFe7Rtj7fDGXJ26-QIC92T6py3vGhxWEgKHjW6Ls1n8xQNsbXRU_A=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/-GS-jL1RKubctc7AjFou-iOrtcSpsibq2qwb9_lzDgG-DDeSatTbRMN_15h4pb-GJGk=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/PzmHC-mz7weQ9muIecEf71Q4PLYKUPkfgXUAQm0t9XWRAbizvCfwYPMSyUCoVsRvkg=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/8SJouzBk9t9Ntu0Js6-AMqgKIUvOB9TqSpTMcTmce64FIR_NLbitnvG3HCXWc6uwJTC1=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/42bcmoqxjMr_au7YDA3CYUQsVBWe1DckEytfz7iKGxzNGMb1EynmWeZM3cjuxLJkS_A=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/x_imXoPooengGhup-d3TbM5BMbhM5lWx9flJaL4V-u68q-AHaCI2cLlcTpCRoxST1A=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/-HO52JCQNpykp9YTVCat_CaX_zTSIvf8X5t1ROwj1J4N2X57ut_RXwPTFjtupAfzSQ=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/_2Dk8ELwCYqCQRauki9CkxBVKPvu7yRgGG_6TNrICxaKtEhz8Nl7P5DZ8DcPzEaEcw=h900','https://static-s.aa-cdn.net/img/gp/20600000397478/KIprSVk8sxrRFGSuDqsRXozqRSXhXFfMNqJhTTiWghoPe2jz678eHMTcLPJXjgX3JylW=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/yf6Iurxs5dqhW5JnQiVSoWyCXaK95gyii8qJ5g9aAoK9zTZ1tBwXBJZoHcyT0LW0qA=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/UQ1WUY5kOJhI6v8uoQGdqHAYo0zlqSOwNGiINndiRt91UDjyAZSUZTPWhD23c53z5QOK=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/cFBBiYPBkBQl-zXy_aUINN6vRQS__VhyarP5TFxpadP-_iyYXTvrQ-6pt4UF2mI9hWU=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/OmCUTJ_SAatcLLE1e8WflOLrkqrR50LVZCyWUNAahaQbN2I3hL045Gmr8_keHqLNuwE=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/zbaAXnDSsuJE53jPCrClDxIDXpURlezn97KpY93XHOeMsPNA0q-zzQF8ZJGhFv4tcIo=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/-4oXrC6mDU06XrXLrOAFmfJWjoeM5zT4F8vyd9zPQANrW_Df3rQuTfd9exmKUlkmFg=h900' 'https://static-s.aa-cdn.net/img/gp/20600000397478/-ZiL3vE9c2-OzWW6SxxMMPog5jzA5cpwDFz_u657xgUE38rAQF0_bXQdCR0v3ee4laA=h900',
+Google Play,2016-12-24,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.12.08,2016.12.23,"- Update story feature where you can share your 24-hour moments
+- Camera improvement with new editing
+- Prepare for Noel and New Year
+Merry Christmas and Happy New Year!"
+Google Play,2016-12-30,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.12.23,2016.12.29,"- Update story feature where you can share your 24-hour moments
+- Camera improvement with new editing
+- Prepare for Noel and New Year
+Merry Christmas and Happy New Year!"
+Google Play,2016-12-31,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.12.29,2016.12.30,"- Bug fixes and prepare for holiday event
+Happy new year 2017!"
+Google Play,2017-01-21,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2016.12.30,2017.01.21,"- Bug fixes and prepare for holiday event
+Happy new year 2017!"
+Google Play,2017-01-23,com.zing.zalo,Zalo,20200001830257,Zalo Group,Version,2017.01.21,2017.01.23,"- Improve camera features with lots of fancy effects to decorate your photos to share with friends and post on timeline
+- Brand new interface for voice and video call
+Wish you all the best on Year of the Rooster 2017!"
