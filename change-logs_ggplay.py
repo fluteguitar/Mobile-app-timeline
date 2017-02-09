@@ -5,7 +5,6 @@ __liscense__ = "GPL"
 __email__ = "canhtoannguyen60@gmail.com"
 __maintainer__ = "Toan Nguyen"
 __status__ = "Production"
-
 import os
 import datetime
 import urllib.request
@@ -16,16 +15,12 @@ import codecs
 import lxml
 from lxml import html
 import yaml
-
-
 def convert_to_datetime_date(date):
     """Convert date to datetime.date
-
     Params:
         date (str):  "January 22, 2017"
     Return:
         (datetime.date): datetime.date(2017,1,22)
-
     >>> convert_to_datetime_date("January 22, 2017")
     datetime.date(2017, 1, 22)
     """
@@ -46,15 +41,11 @@ def convert_to_datetime_date(date):
     month = month_name.index(date[0]) + 1
     date[1] = date[1][:-1]
     return datetime.date(year=int(date[2]), month=month, day=int(date[1]))
-
-
 def start_request(url):
     request = urllib.request.urlopen(url)
     # process handle exception
     response = request.read()
     return response
-
-
 def log_data(version, date, change_log, database):
     if os.path.exists(database):
         mode = 'a'
@@ -84,35 +75,27 @@ def log_data(version, date, change_log, database):
         'Previous Value',
         'New Value',
         'Notes']
-
     stream = open(database, mode)
     writer = csv.writer(stream)
     if mode == 'w':
         writer.writerow(fields_name)
     writer.writerow(fields)
-
-
 def format_change_log(log):
     """Reformat application news log to desired form.
-
     """
     # print(log)
     detele_char = ["u'", 'u"', "'", '"', "<p>",
                    "<br>", "</p>", '[', ']', "</br>"]
     for char in detele_char:
         log = log.replace(char, "")
-
     f = codecs.open("temp.txt", "w", "utf-8")
     f.write(log)
     f.close()
-
     f = open("temp.txt", "r")
     log = ""
     for line in f:
         log = log + line
-
     f.close()
-
     #log = log.replace("\n", " ")
     unicode_logr = {
         "\xc2\xb7": "\n-",
@@ -124,43 +107,33 @@ def format_change_log(log):
         '\xc3\xa2\xc2\x80\xc2\x94': ' ',
         '\xa0': ' '
     }
-
     # print log
-
     for key in list(unicode_logr.keys()):
         log = log.replace(key, unicode_logr[key])
-
     return log
-
-    
 def parse_response(resp, log_resp, start_date, database):
     """
     Get all the app update activity from start_date.
     """
-
     log_tree = lxml.html.fromstring(log_resp)
-    date = log_tree.xpath('//*[@id="body-content"]/div/div/div[1]/div[4]/div/div[2]/div[1]/div[2]/text()')[0]
+    date = log_tree.xpath(
+        '//*[@id="body-content"]/div/div/div[1]/div[4]/div/div[2]/div[1]/div[2]/text()')[0]
     date = convert_to_datetime_date(date)
     if date < start_date:
         return
-    
-    change_log = "\n".join(log_tree.xpath('//div[@class="recent-change"]/text()'))
+    change_log = "\n".join(log_tree.xpath(
+        '//div[@class="recent-change"]/text()'))
     change_log = format_change_log(change_log)
-
     tree = lxml.html.fromstring(resp)
-    version = tree.xpath('/html/body/div[1]/main/div/div[1]/div/div[2]/div[3]/table//tr[2]/td[3]/text()')[0].split()[0]
-    
+    version = tree.xpath(
+        '/html/body/div[1]/main/div/div[1]/div/div[2]/div[3]/table//tr[2]/td[3]/text()')[0].split()[0]
     log_data(version, date, change_log, database)
-
-    
 def get_params(index_file):
     """
     Params:
         index_file (string): index file name.
-
     Returns:
         (dictionary): parameters and values.
-
     >>> params = get_params("index.yaml")
     >>> params['country']
     'VN'
@@ -172,18 +145,11 @@ def get_params(index_file):
     stream = open(index_file, "r")
     params = yaml.load(stream)
     stream.close()
-
     return params
-
-
 def scan_for_change(index_file):
-
     params = get_params(index_file)['change_logs']
-
     today = datetime.date.today()
-
     start_date = today - datetime.timedelta(params['range_of_query'])
-
     for app_info in list(params['apps_src_dest'].keys()):
         print("Running: " + app_info + "\n")
         versionlog_url = params['apps_src_dest'][app_info][0]
@@ -194,12 +160,8 @@ def scan_for_change(index_file):
         resp = start_request(version_url)
         resp = resp.decode('utf-8')
         parse_response(resp, log_resp, start_date, database)
-
     print("Finish!!!!")
-
 scan_for_change('index_ggplay.yaml')
-
-
 # if __name__ == "__main__":
 #     import doctest
 #     doctest.testmod()
