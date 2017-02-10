@@ -3,7 +3,7 @@ change_logs:
   # and the place where their data is stored locally.
   dir: data/ggplay/version-logs/
   database_name: database.csv
-  range_of_query: 30
+  range_of_query: 1
   # each app has 3 fields: version logs src, version no src and database src.
   apps_src_dest:
     Zalo: 
@@ -28,7 +28,7 @@ change_logs:
       - App_Annie_Store_Stats_TimeLine_Google Play_WeChat.csv
     Mocha:
       - https://play.google.com/store/apps/details?id=com.viettel.mocha.app&hl=en
-      - https://www.apptweak.com/applications/android/com.viettel.mocha.app?country=vn
+      - App_Annie_Store_Stats_TimeLine_Google Play_Mocha Free SMS.csv
       - App_Annie_Store_Stats_TimeLine_Google Play_Mocha%3A Free SMS.csv
 rank:
   dir: data/ggplay/

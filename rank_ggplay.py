@@ -140,7 +140,7 @@ def log_to_output(apps_rank_today, rank_params):
 
     today = datetime.date.today() - datetime.timedelta(days=1)
 
-    res = [today.__format__("%m-%d-%Y")]
+    res = [today.__format__("%m/%d/%Y")]
     for app_name in rank_params['apps_list']:
         print(app_name, apps_rank_today)
         res.append(apps_rank_today[app_name])
@@ -157,10 +157,10 @@ def process_ranking(index_file):
     log_to_output(apps_rank_today, rank_params)
 
 
-print("Program start!\n")
+print("Program {} start!\n".format(__file__))
 print("Get ranks of apps\n")
 process_ranking('index_ggplay.yaml')
-print("Finish sucessfully!\n")
+print("Program {} finish sucessfully!\n".format(__file__))
 
 # Uncomment to enable doctest
 # if __name__ == "__main__":

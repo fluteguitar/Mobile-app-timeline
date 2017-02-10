@@ -160,8 +160,10 @@ def scan_for_change(index_file):
         resp = start_request(version_url)
         resp = resp.decode('utf-8')
         parse_response(resp, log_resp, start_date, database)
-    print("Finish!!!!")
+
+print("Program {} starts!".format(__file__))
 scan_for_change('index_ggplay.yaml')
+print("Program {} finish successfully".format(__file__))
 # if __name__ == "__main__":
 #     import doctest
 #     doctest.testmod()

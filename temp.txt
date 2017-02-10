@@ -1,4 +1,3 @@
-- Beta test Mocha Call free data 3G
-- Send Free SMS unlimited
-- Fix minor bugs
-You have idea? Please send to email mocha@viettel.com.vn.
+- Improve camera features with lots of fancy effects to decorate your photos to share with friends and post on timeline
+- Brand new interface for voice and video call
+Wish you all the best on Year of the Rooster 2017!

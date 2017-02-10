@@ -1,17 +1,12 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python
 # -*- coding: utf-8 -*-
-__author__ = "Toan Nguyen - fluteguitar@github"
-__liscense__ = "GPL"
-__email__ = "canhtoannguyen60@gmail.com"
-__maintainer__ = "Toan Nguyen"
-__status__ = "Production"
-
 import os
 import datetime
 import urllib.request
 import urllib.error
 import urllib.parse
 import csv
+import json
 import codecs
 import lxml
 from lxml import html
@@ -22,29 +17,19 @@ def convert_to_datetime_date(date):
     """Convert date to datetime.date
 
     Params:
-        date (str):  "January 22, 2017"
+        date (logring):  "Nov 15 '16"
     Return:
-        (datetime.date): datetime.date(2017,1,22)
+        (datetime.date): datetime.date(2016,11,15)
 
-    >>> convert_to_datetime_date("January 22, 2017")
-    datetime.date(2017, 1, 22)
+    >>> convert_to_datetime_date("Nov 15 '16")
+    datetime.date(2016, 11, 15)
     """
     date = date.split()
-    month_name = [
-        'January',
-        'February',
-        'March',
-        'April',
-        'May',
-        'June',
-        'July',
-        'August',
-        'September',
-        'October',
-        'November',
-        'December']
+    month_name = ['January', 'February', 'March', 'April', 'May', 'June',
+                  'July', 'Augulog', 'September', 'October', 'November', 'December']
+    month_name = [x[:3] for x in month_name]
     month = month_name.index(date[0]) + 1
-    date[1] = date[1][:-1]
+    date[2] = date[2].replace("'", '20')
     return datetime.date(year=int(date[2]), month=month, day=int(date[1]))
 
 
@@ -55,35 +40,17 @@ def start_request(url):
     return response
 
 
-def log_data(version, date, change_log, database):
+def log_data(app, version, date, change_log, database):
     if os.path.exists(database):
         mode = 'a'
     else:
         mode = 'w'
     if change_log == '':
         change_log = 'Rand'
-    fields = [
-        'ggplay',
-        date,
-        '1',
-        '1',
-        '1',
-        '1',
-        'Version',
-        'Rand',
-        version,
-        change_log]
-    fields_name = [
-        'Platform',
-        'Date',
-        'App ID',
-        'App Name',
-        'Publisher ID',
-        'Publisher Name',
-        'Update Type',
-        'Previous Value',
-        'New Value',
-        'Notes']
+    fields = ['iOS', date, '1', app, '1', '1',
+              'Version', 'Rand', version, change_log]
+    fields_name = ['Platform', 'Date', 'App ID', 'App Name', 'Publisher ID',
+                   'Publisher Name', 'Update Type', 'Previous Value', 'New Value', 'Notes']
 
     stream = open(database, mode)
     writer = csv.writer(stream)
@@ -131,26 +98,34 @@ def format_change_log(log):
 
     return log
 
-    
+
 def process_response(resp, start_date, database):
     """
     Get all the app update activity from start_date.
     """
 
     tree = lxml.html.fromstring(resp)
-    date = tree.xpath('//*[@id="body-content"]/div/div/div[1]/div[4]/div/div[2]/div[1]/div[2]/text()')[0]
-    date = convert_to_datetime_date(date)
-    if date < start_date:
-        return
-    
-    change_log = "\n".join(tree.xpath('//div[@class="recent-change"]/text()'))
+    app_name = tree.xpath(
+        '//*[@id="bsap_1291153"]/div[2]/div/div[1]/div[1]/div/h1/text()')[0]
+    change_log = ""
+    for st in tree.xpath('//*[@id="bsap_1291153"]/div[2]/div/div[1]/div[2]/p[2]/text()'):
+        change_log = change_log + st
     change_log = format_change_log(change_log)
-    version = tree.xpath('//*[@id="body-content"]/div/div/div[1]/div[4]/div/div[2]/div[3]/div[2]/text()')    
-    version = version[0] if len(version) else date.strftime("%Y.%m.%d")
 
-    log_data(version, date, change_log, database)
+    version_set = tree.xpath(
+        '//*[@id="bsap_1291153"]/div[2]/div/div[2]/div[2]/div/ul/li')
+    for element in version_set:
+        version = element.xpath('b/text()')[0]
+        version = version.split()[1]
+        date = element.xpath("span/text()")[0]
+        date = convert_to_datetime_date(date)
+        if date >= start_date:
+            log_data(app_name, version, date, change_log, database)
 
-    
+        # reset changelog
+        change_log = ""
+
+
 def get_params(index_file):
     """
     Params:
@@ -191,10 +166,10 @@ def scan_for_change(index_file):
         resp = start_request(url)
         process_response(resp, start_date, database)
 
-    print("Finish!!!!")
 
-scan_for_change('index_ggplay.yaml')
-
+print("Program {} start!".format(__file__))
+scan_for_change('index_ios.yaml')
+print("Program {} finish sucessfully.".format(__file__))
 
 # if __name__ == "__main__":
 #     import doctest
