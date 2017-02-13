@@ -38,7 +38,7 @@ function parseChangeLogs(changeLogs, startDate) {
 				processedData.push(new_element);
 			}
 	}
-
+2
 	processedData.sort(function(a, b) {return a.x > b.x});
 	return processedData;
 }
@@ -142,7 +142,7 @@ function parseRankAndMessageAndLogs(storeType, messageFile, iconDir) {
 	    		counter += 1;		
 	    		if (counter === storeType.versionLogFile.length) {
 	    			console.log(series);
-			    drawChart(series, storeType.name, appsColorMap);
+				drawChart(series, storeType.name);
 	    		}
 			});
 		});

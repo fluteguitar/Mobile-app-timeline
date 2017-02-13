@@ -29,4 +29,13 @@ var constants = {
 						"App_Annie_Store_Stats_TimeLine_Google Play_WeChat.csv",
 						"App_Annie_Store_Stats_TimeLine_Google Play_Zalo.csv"],
 		}
+};
+
+var appsColorMap = {
+    //, '#04C2FE', '#4AB40C', '#7B519C', 'orange'],
+    "Zalo": '#018FE5',
+    "FBM" : '#04C2FE',
+    "Bigo": '#4AB40C',
+    "Viber": '#7E4F9F', 
+    "Mocha" : '#6B5BD7',
 }
