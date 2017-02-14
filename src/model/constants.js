@@ -1,4 +1,4 @@
-var constants = {
+const constants = {
 	rank_bound: 100,
 	messageFile: "data/message.csv",
 	iconDir: "data/icon/32px/",
@@ -31,7 +31,7 @@ var constants = {
 		}
 };
 
-var appsColorMap = {
+const appsColorMap = {
     //, '#04C2FE', '#4AB40C', '#7B519C', 'orange'],
     "Zalo": '#018FE5',
     "FBM" : '#04C2FE',

@@ -1,3 +1,1 @@
-- Improve camera features with lots of fancy effects to decorate your photos to share with friends and post on timeline
-- Brand new interface for voice and video call
-Wish you all the best on Year of the Rooster 2017!
+●Secret messages  Set time limits on photos and videos so they selfdestruct after they’ve been opened.  ●Send media as files  Keep photos and videos in their original size and quality when you choose to send them as files. ●Rich notifications on iOS 10  See the contents of your chats when you expand notifications on iOS 10.  ●Instant video messages  Tap and hold the instant video icon to capture the moment with 30second videos, release to send.
